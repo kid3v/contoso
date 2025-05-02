@@ -1,0 +1,1084 @@
+C:\devl\ContosoUniversity\bin\Debug\net8.0\appsettings.Development.json
+C:\devl\ContosoUniversity\bin\Debug\net8.0\appsettings.json
+C:\devl\ContosoUniversity\bin\Debug\net8.0\ContosoUniversity.staticwebassets.runtime.json
+C:\devl\ContosoUniversity\bin\Debug\net8.0\ContosoUniversity.staticwebassets.endpoints.json
+C:\devl\ContosoUniversity\bin\Debug\net8.0\ContosoUniversity.exe
+C:\devl\ContosoUniversity\bin\Debug\net8.0\ContosoUniversity.deps.json
+C:\devl\ContosoUniversity\bin\Debug\net8.0\ContosoUniversity.runtimeconfig.json
+C:\devl\ContosoUniversity\bin\Debug\net8.0\ContosoUniversity.dll
+C:\devl\ContosoUniversity\bin\Debug\net8.0\ContosoUniversity.pdb
+C:\devl\ContosoUniversity\bin\Debug\net8.0\Azure.Core.dll
+C:\devl\ContosoUniversity\bin\Debug\net8.0\Azure.Identity.dll
+C:\devl\ContosoUniversity\bin\Debug\net8.0\Humanizer.dll
+C:\devl\ContosoUniversity\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\devl\ContosoUniversity\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\devl\ContosoUniversity\bin\Debug\net8.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+C:\devl\ContosoUniversity\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\devl\ContosoUniversity\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.UI.dll
+C:\devl\ContosoUniversity\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\devl\ContosoUniversity\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\devl\ContosoUniversity\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\devl\ContosoUniversity\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\devl\ContosoUniversity\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\devl\ContosoUniversity\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\devl\ContosoUniversity\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\devl\ContosoUniversity\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\devl\ContosoUniversity\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\devl\ContosoUniversity\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\devl\ContosoUniversity\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\devl\ContosoUniversity\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\devl\ContosoUniversity\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\devl\ContosoUniversity\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\devl\ContosoUniversity\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\devl\ContosoUniversity\bin\Debug\net8.0\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\devl\ContosoUniversity\bin\Debug\net8.0\Microsoft.Extensions.Identity.Core.dll
+C:\devl\ContosoUniversity\bin\Debug\net8.0\Microsoft.Extensions.Identity.Stores.dll
+C:\devl\ContosoUniversity\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\devl\ContosoUniversity\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\devl\ContosoUniversity\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\devl\ContosoUniversity\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\devl\ContosoUniversity\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\devl\ContosoUniversity\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\devl\ContosoUniversity\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\devl\ContosoUniversity\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\devl\ContosoUniversity\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\devl\ContosoUniversity\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\devl\ContosoUniversity\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\devl\ContosoUniversity\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\devl\ContosoUniversity\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\devl\ContosoUniversity\bin\Debug\net8.0\System.CodeDom.dll
+C:\devl\ContosoUniversity\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\devl\ContosoUniversity\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\devl\ContosoUniversity\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\devl\ContosoUniversity\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\devl\ContosoUniversity\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\devl\ContosoUniversity\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\devl\ContosoUniversity\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\devl\ContosoUniversity\bin\Debug\net8.0\System.Memory.Data.dll
+C:\devl\ContosoUniversity\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\devl\ContosoUniversity\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\devl\ContosoUniversity\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\devl\ContosoUniversity\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\devl\ContosoUniversity\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\devl\ContosoUniversity\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\devl\ContosoUniversity\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\devl\ContosoUniversity\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\devl\ContosoUniversity\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\devl\ContosoUniversity\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\devl\ContosoUniversity\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\devl\ContosoUniversity\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\devl\ContosoUniversity\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\devl\ContosoUniversity\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\devl\ContosoUniversity\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\devl\ContosoUniversity\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\devl\ContosoUniversity\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\devl\ContosoUniversity\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\devl\ContosoUniversity\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\devl\ContosoUniversity\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\devl\ContosoUniversity\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\devl\ContosoUniversity\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\devl\ContosoUniversity\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\devl\ContosoUniversity\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\devl\ContosoUniversity\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\devl\ContosoUniversity\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\devl\ContosoUniversity\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\devl\ContosoUniversity\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\devl\ContosoUniversity\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\devl\ContosoUniversity\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\devl\ContosoUniversity\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\devl\ContosoUniversity\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\devl\ContosoUniversity\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\devl\ContosoUniversity\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\devl\ContosoUniversity\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\devl\ContosoUniversity\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\devl\ContosoUniversity\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\devl\ContosoUniversity\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\devl\ContosoUniversity\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\devl\ContosoUniversity\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\devl\ContosoUniversity\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\devl\ContosoUniversity\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\devl\ContosoUniversity\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\devl\ContosoUniversity\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\devl\ContosoUniversity\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\devl\ContosoUniversity\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\devl\ContosoUniversity\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\devl\ContosoUniversity\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\devl\ContosoUniversity\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\devl\ContosoUniversity\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\devl\ContosoUniversity\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\devl\ContosoUniversity\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\devl\ContosoUniversity\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\devl\ContosoUniversity\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\devl\ContosoUniversity\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\devl\ContosoUniversity\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\devl\ContosoUniversity\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\devl\ContosoUniversity\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\devl\ContosoUniversity\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\devl\ContosoUniversity\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\devl\ContosoUniversity\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\devl\ContosoUniversity\obj\Debug\net8.0\ContosoUniversity.csproj.AssemblyReference.cache
+C:\devl\ContosoUniversity\obj\Debug\net8.0\ContosoUniversity.GeneratedMSBuildEditorConfig.editorconfig
+C:\devl\ContosoUniversity\obj\Debug\net8.0\ContosoUniversity.AssemblyInfoInputs.cache
+C:\devl\ContosoUniversity\obj\Debug\net8.0\ContosoUniversity.AssemblyInfo.cs
+C:\devl\ContosoUniversity\obj\Debug\net8.0\ContosoUniversity.csproj.CoreCompileInputs.cache
+C:\devl\ContosoUniversity\obj\Debug\net8.0\ContosoUniversity.MvcApplicationPartsAssemblyInfo.cs
+C:\devl\ContosoUniversity\obj\Debug\net8.0\ContosoUniversity.MvcApplicationPartsAssemblyInfo.cache
+C:\devl\ContosoUniversity\obj\Debug\net8.0\ContosoUniversity.RazorAssemblyInfo.cache
+C:\devl\ContosoUniversity\obj\Debug\net8.0\ContosoUniversity.RazorAssemblyInfo.cs
+C:\devl\ContosoUniversity\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\devl\ContosoUniversity\obj\Debug\net8.0\scopedcss\bundle\ContosoUniversity.styles.css
+C:\devl\ContosoUniversity\obj\Debug\net8.0\scopedcss\projectbundle\ContosoUniversity.bundle.scp.css
+C:\devl\ContosoUniversity\obj\Debug\net8.0\staticwebassets.build.json
+C:\devl\ContosoUniversity\obj\Debug\net8.0\staticwebassets.development.json
+C:\devl\ContosoUniversity\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\devl\ContosoUniversity\obj\Debug\net8.0\staticwebassets\msbuild.ContosoUniversity.Microsoft.AspNetCore.StaticWebAssets.props
+C:\devl\ContosoUniversity\obj\Debug\net8.0\staticwebassets\msbuild.ContosoUniversity.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\devl\ContosoUniversity\obj\Debug\net8.0\staticwebassets\msbuild.build.ContosoUniversity.props
+C:\devl\ContosoUniversity\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.ContosoUniversity.props
+C:\devl\ContosoUniversity\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.ContosoUniversity.props
+C:\devl\ContosoUniversity\obj\Debug\net8.0\staticwebassets.pack.json
+C:\devl\ContosoUniversity\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\devl\ContosoUniversity\obj\Debug\net8.0\ContosoU.2F40B0B5.Up2Date
+C:\devl\ContosoUniversity\obj\Debug\net8.0\ContosoUniversity.dll
+C:\devl\ContosoUniversity\obj\Debug\net8.0\refint\ContosoUniversity.dll
+C:\devl\ContosoUniversity\obj\Debug\net8.0\ContosoUniversity.pdb
+C:\devl\ContosoUniversity\obj\Debug\net8.0\ContosoUniversity.genruntimeconfig.cache
+C:\devl\ContosoUniversity\obj\Debug\net8.0\ref\ContosoUniversity.dll
+C:\devl\ContosoUniversity\bin\Debug\net8.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\devl\ContosoUniversity\bin\Debug\net8.0\Microsoft.Build.dll
+C:\devl\ContosoUniversity\bin\Debug\net8.0\Microsoft.Build.Framework.dll
+C:\devl\ContosoUniversity\bin\Debug\net8.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+C:\devl\ContosoUniversity\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+C:\devl\ContosoUniversity\bin\Debug\net8.0\Microsoft.CodeAnalysis.Elfie.dll
+C:\devl\ContosoUniversity\bin\Debug\net8.0\Microsoft.CodeAnalysis.Features.dll
+C:\devl\ContosoUniversity\bin\Debug\net8.0\Microsoft.CodeAnalysis.Razor.dll
+C:\devl\ContosoUniversity\bin\Debug\net8.0\Microsoft.CodeAnalysis.Scripting.dll
+C:\devl\ContosoUniversity\bin\Debug\net8.0\Microsoft.DiaSymReader.dll
+C:\devl\ContosoUniversity\bin\Debug\net8.0\Microsoft.DotNet.Scaffolding.Shared.dll
+C:\devl\ContosoUniversity\bin\Debug\net8.0\Microsoft.NET.StringTools.dll
+C:\devl\ContosoUniversity\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\devl\ContosoUniversity\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\devl\ContosoUniversity\bin\Debug\net8.0\dotnet-aspnet-codegenerator-design.dll
+C:\devl\ContosoUniversity\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\devl\ContosoUniversity\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\devl\ContosoUniversity\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\devl\ContosoUniversity\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\devl\ContosoUniversity\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\devl\ContosoUniversity\bin\Debug\net8.0\NuGet.Common.dll
+C:\devl\ContosoUniversity\bin\Debug\net8.0\NuGet.Configuration.dll
+C:\devl\ContosoUniversity\bin\Debug\net8.0\NuGet.DependencyResolver.Core.dll
+C:\devl\ContosoUniversity\bin\Debug\net8.0\NuGet.Frameworks.dll
+C:\devl\ContosoUniversity\bin\Debug\net8.0\NuGet.LibraryModel.dll
+C:\devl\ContosoUniversity\bin\Debug\net8.0\NuGet.Packaging.dll
+C:\devl\ContosoUniversity\bin\Debug\net8.0\NuGet.ProjectModel.dll
+C:\devl\ContosoUniversity\bin\Debug\net8.0\NuGet.Protocol.dll
+C:\devl\ContosoUniversity\bin\Debug\net8.0\NuGet.Versioning.dll
+C:\devl\ContosoUniversity\bin\Debug\net8.0\System.Reflection.MetadataLoadContext.dll
+C:\devl\ContosoUniversity\bin\Debug\net8.0\af\Humanizer.resources.dll
+C:\devl\ContosoUniversity\bin\Debug\net8.0\ar\Humanizer.resources.dll
+C:\devl\ContosoUniversity\bin\Debug\net8.0\az\Humanizer.resources.dll
+C:\devl\ContosoUniversity\bin\Debug\net8.0\bg\Humanizer.resources.dll
+C:\devl\ContosoUniversity\bin\Debug\net8.0\bn-BD\Humanizer.resources.dll
+C:\devl\ContosoUniversity\bin\Debug\net8.0\cs\Humanizer.resources.dll
+C:\devl\ContosoUniversity\bin\Debug\net8.0\da\Humanizer.resources.dll
+C:\devl\ContosoUniversity\bin\Debug\net8.0\de\Humanizer.resources.dll
+C:\devl\ContosoUniversity\bin\Debug\net8.0\el\Humanizer.resources.dll
+C:\devl\ContosoUniversity\bin\Debug\net8.0\es\Humanizer.resources.dll
+C:\devl\ContosoUniversity\bin\Debug\net8.0\fa\Humanizer.resources.dll
+C:\devl\ContosoUniversity\bin\Debug\net8.0\fi-FI\Humanizer.resources.dll
+C:\devl\ContosoUniversity\bin\Debug\net8.0\fr\Humanizer.resources.dll
+C:\devl\ContosoUniversity\bin\Debug\net8.0\fr-BE\Humanizer.resources.dll
+C:\devl\ContosoUniversity\bin\Debug\net8.0\he\Humanizer.resources.dll
+C:\devl\ContosoUniversity\bin\Debug\net8.0\hr\Humanizer.resources.dll
+C:\devl\ContosoUniversity\bin\Debug\net8.0\hu\Humanizer.resources.dll
+C:\devl\ContosoUniversity\bin\Debug\net8.0\hy\Humanizer.resources.dll
+C:\devl\ContosoUniversity\bin\Debug\net8.0\id\Humanizer.resources.dll
+C:\devl\ContosoUniversity\bin\Debug\net8.0\is\Humanizer.resources.dll
+C:\devl\ContosoUniversity\bin\Debug\net8.0\it\Humanizer.resources.dll
+C:\devl\ContosoUniversity\bin\Debug\net8.0\ja\Humanizer.resources.dll
+C:\devl\ContosoUniversity\bin\Debug\net8.0\ko-KR\Humanizer.resources.dll
+C:\devl\ContosoUniversity\bin\Debug\net8.0\ku\Humanizer.resources.dll
+C:\devl\ContosoUniversity\bin\Debug\net8.0\lv\Humanizer.resources.dll
+C:\devl\ContosoUniversity\bin\Debug\net8.0\ms-MY\Humanizer.resources.dll
+C:\devl\ContosoUniversity\bin\Debug\net8.0\mt\Humanizer.resources.dll
+C:\devl\ContosoUniversity\bin\Debug\net8.0\nb\Humanizer.resources.dll
+C:\devl\ContosoUniversity\bin\Debug\net8.0\nb-NO\Humanizer.resources.dll
+C:\devl\ContosoUniversity\bin\Debug\net8.0\nl\Humanizer.resources.dll
+C:\devl\ContosoUniversity\bin\Debug\net8.0\pl\Humanizer.resources.dll
+C:\devl\ContosoUniversity\bin\Debug\net8.0\pt\Humanizer.resources.dll
+C:\devl\ContosoUniversity\bin\Debug\net8.0\ro\Humanizer.resources.dll
+C:\devl\ContosoUniversity\bin\Debug\net8.0\ru\Humanizer.resources.dll
+C:\devl\ContosoUniversity\bin\Debug\net8.0\sk\Humanizer.resources.dll
+C:\devl\ContosoUniversity\bin\Debug\net8.0\sl\Humanizer.resources.dll
+C:\devl\ContosoUniversity\bin\Debug\net8.0\sr\Humanizer.resources.dll
+C:\devl\ContosoUniversity\bin\Debug\net8.0\sr-Latn\Humanizer.resources.dll
+C:\devl\ContosoUniversity\bin\Debug\net8.0\sv\Humanizer.resources.dll
+C:\devl\ContosoUniversity\bin\Debug\net8.0\th-TH\Humanizer.resources.dll
+C:\devl\ContosoUniversity\bin\Debug\net8.0\tr\Humanizer.resources.dll
+C:\devl\ContosoUniversity\bin\Debug\net8.0\uk\Humanizer.resources.dll
+C:\devl\ContosoUniversity\bin\Debug\net8.0\uz-Cyrl-UZ\Humanizer.resources.dll
+C:\devl\ContosoUniversity\bin\Debug\net8.0\uz-Latn-UZ\Humanizer.resources.dll
+C:\devl\ContosoUniversity\bin\Debug\net8.0\vi\Humanizer.resources.dll
+C:\devl\ContosoUniversity\bin\Debug\net8.0\zh-CN\Humanizer.resources.dll
+C:\devl\ContosoUniversity\bin\Debug\net8.0\zh-Hans\Humanizer.resources.dll
+C:\devl\ContosoUniversity\bin\Debug\net8.0\zh-Hant\Humanizer.resources.dll
+C:\devl\ContosoUniversity\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\devl\ContosoUniversity\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\devl\ContosoUniversity\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\devl\ContosoUniversity\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\devl\ContosoUniversity\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\devl\ContosoUniversity\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\devl\ContosoUniversity\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\devl\ContosoUniversity\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\devl\ContosoUniversity\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\devl\ContosoUniversity\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\devl\ContosoUniversity\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\devl\ContosoUniversity\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\devl\ContosoUniversity\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\devl\ContosoUniversity\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+C:\devl\ContosoUniversity\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+C:\devl\ContosoUniversity\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+C:\devl\ContosoUniversity\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\devl\ContosoUniversity\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+C:\devl\ContosoUniversity\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+C:\devl\ContosoUniversity\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+C:\devl\ContosoUniversity\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+C:\devl\ContosoUniversity\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+C:\devl\ContosoUniversity\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+C:\devl\ContosoUniversity\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\devl\ContosoUniversity\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+C:\devl\ContosoUniversity\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+C:\devl\ContosoUniversity\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\devl\ContosoUniversity\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\devl\ContosoUniversity\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\devl\ContosoUniversity\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\devl\ContosoUniversity\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\devl\ContosoUniversity\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\devl\ContosoUniversity\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\devl\ContosoUniversity\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\devl\ContosoUniversity\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\devl\ContosoUniversity\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\devl\ContosoUniversity\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\devl\ContosoUniversity\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\devl\ContosoUniversity\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\devl\ContosoUniversity\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\devl\ContosoUniversity\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\devl\ContosoUniversity\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\devl\ContosoUniversity\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\devl\ContosoUniversity\bin\Debug\net8.0\runtimes\win\lib\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\devl\ContosoUniversity\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Drawing.Common.dll
+C:\devl\ContosoUniversity\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\devl\ContosoUniversity\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Windows.Extensions.dll
+C:\Users\amand\Downloads\ContosoUniversity (1)\ContosoUniversity (1)\ContosoUniversity\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\amand\Downloads\ContosoUniversity (1)\ContosoUniversity (1)\ContosoUniversity\bin\Debug\net8.0\appsettings.json
+C:\Users\amand\Downloads\ContosoUniversity (1)\ContosoUniversity (1)\ContosoUniversity\bin\Debug\net8.0\ContosoUniversity.staticwebassets.runtime.json
+C:\Users\amand\Downloads\ContosoUniversity (1)\ContosoUniversity (1)\ContosoUniversity\bin\Debug\net8.0\ContosoUniversity.staticwebassets.endpoints.json
+C:\Users\amand\Downloads\ContosoUniversity (1)\ContosoUniversity (1)\ContosoUniversity\bin\Debug\net8.0\ContosoUniversity.exe
+C:\Users\amand\Downloads\ContosoUniversity (1)\ContosoUniversity (1)\ContosoUniversity\bin\Debug\net8.0\ContosoUniversity.deps.json
+C:\Users\amand\Downloads\ContosoUniversity (1)\ContosoUniversity (1)\ContosoUniversity\bin\Debug\net8.0\ContosoUniversity.runtimeconfig.json
+C:\Users\amand\Downloads\ContosoUniversity (1)\ContosoUniversity (1)\ContosoUniversity\bin\Debug\net8.0\ContosoUniversity.dll
+C:\Users\amand\Downloads\ContosoUniversity (1)\ContosoUniversity (1)\ContosoUniversity\bin\Debug\net8.0\ContosoUniversity.pdb
+C:\Users\amand\Downloads\ContosoUniversity (1)\ContosoUniversity (1)\ContosoUniversity\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\amand\Downloads\ContosoUniversity (1)\ContosoUniversity (1)\ContosoUniversity\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\amand\Downloads\ContosoUniversity (1)\ContosoUniversity (1)\ContosoUniversity\bin\Debug\net8.0\Humanizer.dll
+C:\Users\amand\Downloads\ContosoUniversity (1)\ContosoUniversity (1)\ContosoUniversity\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\amand\Downloads\ContosoUniversity (1)\ContosoUniversity (1)\ContosoUniversity\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\amand\Downloads\ContosoUniversity (1)\ContosoUniversity (1)\ContosoUniversity\bin\Debug\net8.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+C:\Users\amand\Downloads\ContosoUniversity (1)\ContosoUniversity (1)\ContosoUniversity\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\amand\Downloads\ContosoUniversity (1)\ContosoUniversity (1)\ContosoUniversity\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.UI.dll
+C:\Users\amand\Downloads\ContosoUniversity (1)\ContosoUniversity (1)\ContosoUniversity\bin\Debug\net8.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\amand\Downloads\ContosoUniversity (1)\ContosoUniversity (1)\ContosoUniversity\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\amand\Downloads\ContosoUniversity (1)\ContosoUniversity (1)\ContosoUniversity\bin\Debug\net8.0\Microsoft.Build.dll
+C:\Users\amand\Downloads\ContosoUniversity (1)\ContosoUniversity (1)\ContosoUniversity\bin\Debug\net8.0\Microsoft.Build.Framework.dll
+C:\Users\amand\Downloads\ContosoUniversity (1)\ContosoUniversity (1)\ContosoUniversity\bin\Debug\net8.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+C:\Users\amand\Downloads\ContosoUniversity (1)\ContosoUniversity (1)\ContosoUniversity\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\Users\amand\Downloads\ContosoUniversity (1)\ContosoUniversity (1)\ContosoUniversity\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\amand\Downloads\ContosoUniversity (1)\ContosoUniversity (1)\ContosoUniversity\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+C:\Users\amand\Downloads\ContosoUniversity (1)\ContosoUniversity (1)\ContosoUniversity\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\amand\Downloads\ContosoUniversity (1)\ContosoUniversity (1)\ContosoUniversity\bin\Debug\net8.0\Microsoft.CodeAnalysis.Elfie.dll
+C:\Users\amand\Downloads\ContosoUniversity (1)\ContosoUniversity (1)\ContosoUniversity\bin\Debug\net8.0\Microsoft.CodeAnalysis.Features.dll
+C:\Users\amand\Downloads\ContosoUniversity (1)\ContosoUniversity (1)\ContosoUniversity\bin\Debug\net8.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\amand\Downloads\ContosoUniversity (1)\ContosoUniversity (1)\ContosoUniversity\bin\Debug\net8.0\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\amand\Downloads\ContosoUniversity (1)\ContosoUniversity (1)\ContosoUniversity\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\amand\Downloads\ContosoUniversity (1)\ContosoUniversity (1)\ContosoUniversity\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\amand\Downloads\ContosoUniversity (1)\ContosoUniversity (1)\ContosoUniversity\bin\Debug\net8.0\Microsoft.DiaSymReader.dll
+C:\Users\amand\Downloads\ContosoUniversity (1)\ContosoUniversity (1)\ContosoUniversity\bin\Debug\net8.0\Microsoft.DotNet.Scaffolding.Shared.dll
+C:\Users\amand\Downloads\ContosoUniversity (1)\ContosoUniversity (1)\ContosoUniversity\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\amand\Downloads\ContosoUniversity (1)\ContosoUniversity (1)\ContosoUniversity\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\amand\Downloads\ContosoUniversity (1)\ContosoUniversity (1)\ContosoUniversity\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\amand\Downloads\ContosoUniversity (1)\ContosoUniversity (1)\ContosoUniversity\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\amand\Downloads\ContosoUniversity (1)\ContosoUniversity (1)\ContosoUniversity\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\amand\Downloads\ContosoUniversity (1)\ContosoUniversity (1)\ContosoUniversity\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\amand\Downloads\ContosoUniversity (1)\ContosoUniversity (1)\ContosoUniversity\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\amand\Downloads\ContosoUniversity (1)\ContosoUniversity (1)\ContosoUniversity\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\amand\Downloads\ContosoUniversity (1)\ContosoUniversity (1)\ContosoUniversity\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\amand\Downloads\ContosoUniversity (1)\ContosoUniversity (1)\ContosoUniversity\bin\Debug\net8.0\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Users\amand\Downloads\ContosoUniversity (1)\ContosoUniversity (1)\ContosoUniversity\bin\Debug\net8.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\amand\Downloads\ContosoUniversity (1)\ContosoUniversity (1)\ContosoUniversity\bin\Debug\net8.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\amand\Downloads\ContosoUniversity (1)\ContosoUniversity (1)\ContosoUniversity\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\Users\amand\Downloads\ContosoUniversity (1)\ContosoUniversity (1)\ContosoUniversity\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\amand\Downloads\ContosoUniversity (1)\ContosoUniversity (1)\ContosoUniversity\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\amand\Downloads\ContosoUniversity (1)\ContosoUniversity (1)\ContosoUniversity\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\amand\Downloads\ContosoUniversity (1)\ContosoUniversity (1)\ContosoUniversity\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\amand\Downloads\ContosoUniversity (1)\ContosoUniversity (1)\ContosoUniversity\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\amand\Downloads\ContosoUniversity (1)\ContosoUniversity (1)\ContosoUniversity\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\amand\Downloads\ContosoUniversity (1)\ContosoUniversity (1)\ContosoUniversity\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\amand\Downloads\ContosoUniversity (1)\ContosoUniversity (1)\ContosoUniversity\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\amand\Downloads\ContosoUniversity (1)\ContosoUniversity (1)\ContosoUniversity\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\amand\Downloads\ContosoUniversity (1)\ContosoUniversity (1)\ContosoUniversity\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\amand\Downloads\ContosoUniversity (1)\ContosoUniversity (1)\ContosoUniversity\bin\Debug\net8.0\Microsoft.NET.StringTools.dll
+C:\Users\amand\Downloads\ContosoUniversity (1)\ContosoUniversity (1)\ContosoUniversity\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\amand\Downloads\ContosoUniversity (1)\ContosoUniversity (1)\ContosoUniversity\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\amand\Downloads\ContosoUniversity (1)\ContosoUniversity (1)\ContosoUniversity\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\amand\Downloads\ContosoUniversity (1)\ContosoUniversity (1)\ContosoUniversity\bin\Debug\net8.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\amand\Downloads\ContosoUniversity (1)\ContosoUniversity (1)\ContosoUniversity\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\amand\Downloads\ContosoUniversity (1)\ContosoUniversity (1)\ContosoUniversity\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\amand\Downloads\ContosoUniversity (1)\ContosoUniversity (1)\ContosoUniversity\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\amand\Downloads\ContosoUniversity (1)\ContosoUniversity (1)\ContosoUniversity\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\amand\Downloads\ContosoUniversity (1)\ContosoUniversity (1)\ContosoUniversity\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Users\amand\Downloads\ContosoUniversity (1)\ContosoUniversity (1)\ContosoUniversity\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\amand\Downloads\ContosoUniversity (1)\ContosoUniversity (1)\ContosoUniversity\bin\Debug\net8.0\NuGet.Common.dll
+C:\Users\amand\Downloads\ContosoUniversity (1)\ContosoUniversity (1)\ContosoUniversity\bin\Debug\net8.0\NuGet.Configuration.dll
+C:\Users\amand\Downloads\ContosoUniversity (1)\ContosoUniversity (1)\ContosoUniversity\bin\Debug\net8.0\NuGet.DependencyResolver.Core.dll
+C:\Users\amand\Downloads\ContosoUniversity (1)\ContosoUniversity (1)\ContosoUniversity\bin\Debug\net8.0\NuGet.Frameworks.dll
+C:\Users\amand\Downloads\ContosoUniversity (1)\ContosoUniversity (1)\ContosoUniversity\bin\Debug\net8.0\NuGet.LibraryModel.dll
+C:\Users\amand\Downloads\ContosoUniversity (1)\ContosoUniversity (1)\ContosoUniversity\bin\Debug\net8.0\NuGet.Packaging.dll
+C:\Users\amand\Downloads\ContosoUniversity (1)\ContosoUniversity (1)\ContosoUniversity\bin\Debug\net8.0\NuGet.ProjectModel.dll
+C:\Users\amand\Downloads\ContosoUniversity (1)\ContosoUniversity (1)\ContosoUniversity\bin\Debug\net8.0\NuGet.Protocol.dll
+C:\Users\amand\Downloads\ContosoUniversity (1)\ContosoUniversity (1)\ContosoUniversity\bin\Debug\net8.0\NuGet.Versioning.dll
+C:\Users\amand\Downloads\ContosoUniversity (1)\ContosoUniversity (1)\ContosoUniversity\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\amand\Downloads\ContosoUniversity (1)\ContosoUniversity (1)\ContosoUniversity\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\Users\amand\Downloads\ContosoUniversity (1)\ContosoUniversity (1)\ContosoUniversity\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\Users\amand\Downloads\ContosoUniversity (1)\ContosoUniversity (1)\ContosoUniversity\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\Users\amand\Downloads\ContosoUniversity (1)\ContosoUniversity (1)\ContosoUniversity\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\Users\amand\Downloads\ContosoUniversity (1)\ContosoUniversity (1)\ContosoUniversity\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\Users\amand\Downloads\ContosoUniversity (1)\ContosoUniversity (1)\ContosoUniversity\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\amand\Downloads\ContosoUniversity (1)\ContosoUniversity (1)\ContosoUniversity\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\amand\Downloads\ContosoUniversity (1)\ContosoUniversity (1)\ContosoUniversity\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\amand\Downloads\ContosoUniversity (1)\ContosoUniversity (1)\ContosoUniversity\bin\Debug\net8.0\System.Reflection.MetadataLoadContext.dll
+C:\Users\amand\Downloads\ContosoUniversity (1)\ContosoUniversity (1)\ContosoUniversity\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Users\amand\Downloads\ContosoUniversity (1)\ContosoUniversity (1)\ContosoUniversity\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\amand\Downloads\ContosoUniversity (1)\ContosoUniversity (1)\ContosoUniversity\bin\Debug\net8.0\af\Humanizer.resources.dll
+C:\Users\amand\Downloads\ContosoUniversity (1)\ContosoUniversity (1)\ContosoUniversity\bin\Debug\net8.0\ar\Humanizer.resources.dll
+C:\Users\amand\Downloads\ContosoUniversity (1)\ContosoUniversity (1)\ContosoUniversity\bin\Debug\net8.0\az\Humanizer.resources.dll
+C:\Users\amand\Downloads\ContosoUniversity (1)\ContosoUniversity (1)\ContosoUniversity\bin\Debug\net8.0\bg\Humanizer.resources.dll
+C:\Users\amand\Downloads\ContosoUniversity (1)\ContosoUniversity (1)\ContosoUniversity\bin\Debug\net8.0\bn-BD\Humanizer.resources.dll
+C:\Users\amand\Downloads\ContosoUniversity (1)\ContosoUniversity (1)\ContosoUniversity\bin\Debug\net8.0\cs\Humanizer.resources.dll
+C:\Users\amand\Downloads\ContosoUniversity (1)\ContosoUniversity (1)\ContosoUniversity\bin\Debug\net8.0\da\Humanizer.resources.dll
+C:\Users\amand\Downloads\ContosoUniversity (1)\ContosoUniversity (1)\ContosoUniversity\bin\Debug\net8.0\de\Humanizer.resources.dll
+C:\Users\amand\Downloads\ContosoUniversity (1)\ContosoUniversity (1)\ContosoUniversity\bin\Debug\net8.0\el\Humanizer.resources.dll
+C:\Users\amand\Downloads\ContosoUniversity (1)\ContosoUniversity (1)\ContosoUniversity\bin\Debug\net8.0\es\Humanizer.resources.dll
+C:\Users\amand\Downloads\ContosoUniversity (1)\ContosoUniversity (1)\ContosoUniversity\bin\Debug\net8.0\fa\Humanizer.resources.dll
+C:\Users\amand\Downloads\ContosoUniversity (1)\ContosoUniversity (1)\ContosoUniversity\bin\Debug\net8.0\fi-FI\Humanizer.resources.dll
+C:\Users\amand\Downloads\ContosoUniversity (1)\ContosoUniversity (1)\ContosoUniversity\bin\Debug\net8.0\fr\Humanizer.resources.dll
+C:\Users\amand\Downloads\ContosoUniversity (1)\ContosoUniversity (1)\ContosoUniversity\bin\Debug\net8.0\fr-BE\Humanizer.resources.dll
+C:\Users\amand\Downloads\ContosoUniversity (1)\ContosoUniversity (1)\ContosoUniversity\bin\Debug\net8.0\he\Humanizer.resources.dll
+C:\Users\amand\Downloads\ContosoUniversity (1)\ContosoUniversity (1)\ContosoUniversity\bin\Debug\net8.0\hr\Humanizer.resources.dll
+C:\Users\amand\Downloads\ContosoUniversity (1)\ContosoUniversity (1)\ContosoUniversity\bin\Debug\net8.0\hu\Humanizer.resources.dll
+C:\Users\amand\Downloads\ContosoUniversity (1)\ContosoUniversity (1)\ContosoUniversity\bin\Debug\net8.0\hy\Humanizer.resources.dll
+C:\Users\amand\Downloads\ContosoUniversity (1)\ContosoUniversity (1)\ContosoUniversity\bin\Debug\net8.0\id\Humanizer.resources.dll
+C:\Users\amand\Downloads\ContosoUniversity (1)\ContosoUniversity (1)\ContosoUniversity\bin\Debug\net8.0\is\Humanizer.resources.dll
+C:\Users\amand\Downloads\ContosoUniversity (1)\ContosoUniversity (1)\ContosoUniversity\bin\Debug\net8.0\it\Humanizer.resources.dll
+C:\Users\amand\Downloads\ContosoUniversity (1)\ContosoUniversity (1)\ContosoUniversity\bin\Debug\net8.0\ja\Humanizer.resources.dll
+C:\Users\amand\Downloads\ContosoUniversity (1)\ContosoUniversity (1)\ContosoUniversity\bin\Debug\net8.0\ko-KR\Humanizer.resources.dll
+C:\Users\amand\Downloads\ContosoUniversity (1)\ContosoUniversity (1)\ContosoUniversity\bin\Debug\net8.0\ku\Humanizer.resources.dll
+C:\Users\amand\Downloads\ContosoUniversity (1)\ContosoUniversity (1)\ContosoUniversity\bin\Debug\net8.0\lv\Humanizer.resources.dll
+C:\Users\amand\Downloads\ContosoUniversity (1)\ContosoUniversity (1)\ContosoUniversity\bin\Debug\net8.0\ms-MY\Humanizer.resources.dll
+C:\Users\amand\Downloads\ContosoUniversity (1)\ContosoUniversity (1)\ContosoUniversity\bin\Debug\net8.0\mt\Humanizer.resources.dll
+C:\Users\amand\Downloads\ContosoUniversity (1)\ContosoUniversity (1)\ContosoUniversity\bin\Debug\net8.0\nb\Humanizer.resources.dll
+C:\Users\amand\Downloads\ContosoUniversity (1)\ContosoUniversity (1)\ContosoUniversity\bin\Debug\net8.0\nb-NO\Humanizer.resources.dll
+C:\Users\amand\Downloads\ContosoUniversity (1)\ContosoUniversity (1)\ContosoUniversity\bin\Debug\net8.0\nl\Humanizer.resources.dll
+C:\Users\amand\Downloads\ContosoUniversity (1)\ContosoUniversity (1)\ContosoUniversity\bin\Debug\net8.0\pl\Humanizer.resources.dll
+C:\Users\amand\Downloads\ContosoUniversity (1)\ContosoUniversity (1)\ContosoUniversity\bin\Debug\net8.0\pt\Humanizer.resources.dll
+C:\Users\amand\Downloads\ContosoUniversity (1)\ContosoUniversity (1)\ContosoUniversity\bin\Debug\net8.0\ro\Humanizer.resources.dll
+C:\Users\amand\Downloads\ContosoUniversity (1)\ContosoUniversity (1)\ContosoUniversity\bin\Debug\net8.0\ru\Humanizer.resources.dll
+C:\Users\amand\Downloads\ContosoUniversity (1)\ContosoUniversity (1)\ContosoUniversity\bin\Debug\net8.0\sk\Humanizer.resources.dll
+C:\Users\amand\Downloads\ContosoUniversity (1)\ContosoUniversity (1)\ContosoUniversity\bin\Debug\net8.0\sl\Humanizer.resources.dll
+C:\Users\amand\Downloads\ContosoUniversity (1)\ContosoUniversity (1)\ContosoUniversity\bin\Debug\net8.0\sr\Humanizer.resources.dll
+C:\Users\amand\Downloads\ContosoUniversity (1)\ContosoUniversity (1)\ContosoUniversity\bin\Debug\net8.0\sr-Latn\Humanizer.resources.dll
+C:\Users\amand\Downloads\ContosoUniversity (1)\ContosoUniversity (1)\ContosoUniversity\bin\Debug\net8.0\sv\Humanizer.resources.dll
+C:\Users\amand\Downloads\ContosoUniversity (1)\ContosoUniversity (1)\ContosoUniversity\bin\Debug\net8.0\th-TH\Humanizer.resources.dll
+C:\Users\amand\Downloads\ContosoUniversity (1)\ContosoUniversity (1)\ContosoUniversity\bin\Debug\net8.0\tr\Humanizer.resources.dll
+C:\Users\amand\Downloads\ContosoUniversity (1)\ContosoUniversity (1)\ContosoUniversity\bin\Debug\net8.0\uk\Humanizer.resources.dll
+C:\Users\amand\Downloads\ContosoUniversity (1)\ContosoUniversity (1)\ContosoUniversity\bin\Debug\net8.0\uz-Cyrl-UZ\Humanizer.resources.dll
+C:\Users\amand\Downloads\ContosoUniversity (1)\ContosoUniversity (1)\ContosoUniversity\bin\Debug\net8.0\uz-Latn-UZ\Humanizer.resources.dll
+C:\Users\amand\Downloads\ContosoUniversity (1)\ContosoUniversity (1)\ContosoUniversity\bin\Debug\net8.0\vi\Humanizer.resources.dll
+C:\Users\amand\Downloads\ContosoUniversity (1)\ContosoUniversity (1)\ContosoUniversity\bin\Debug\net8.0\zh-CN\Humanizer.resources.dll
+C:\Users\amand\Downloads\ContosoUniversity (1)\ContosoUniversity (1)\ContosoUniversity\bin\Debug\net8.0\zh-Hans\Humanizer.resources.dll
+C:\Users\amand\Downloads\ContosoUniversity (1)\ContosoUniversity (1)\ContosoUniversity\bin\Debug\net8.0\zh-Hant\Humanizer.resources.dll
+C:\Users\amand\Downloads\ContosoUniversity (1)\ContosoUniversity (1)\ContosoUniversity\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\amand\Downloads\ContosoUniversity (1)\ContosoUniversity (1)\ContosoUniversity\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\amand\Downloads\ContosoUniversity (1)\ContosoUniversity (1)\ContosoUniversity\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\amand\Downloads\ContosoUniversity (1)\ContosoUniversity (1)\ContosoUniversity\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\amand\Downloads\ContosoUniversity (1)\ContosoUniversity (1)\ContosoUniversity\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\amand\Downloads\ContosoUniversity (1)\ContosoUniversity (1)\ContosoUniversity\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\amand\Downloads\ContosoUniversity (1)\ContosoUniversity (1)\ContosoUniversity\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\amand\Downloads\ContosoUniversity (1)\ContosoUniversity (1)\ContosoUniversity\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\amand\Downloads\ContosoUniversity (1)\ContosoUniversity (1)\ContosoUniversity\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\amand\Downloads\ContosoUniversity (1)\ContosoUniversity (1)\ContosoUniversity\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\amand\Downloads\ContosoUniversity (1)\ContosoUniversity (1)\ContosoUniversity\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\amand\Downloads\ContosoUniversity (1)\ContosoUniversity (1)\ContosoUniversity\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\amand\Downloads\ContosoUniversity (1)\ContosoUniversity (1)\ContosoUniversity\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\amand\Downloads\ContosoUniversity (1)\ContosoUniversity (1)\ContosoUniversity\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\amand\Downloads\ContosoUniversity (1)\ContosoUniversity (1)\ContosoUniversity\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\amand\Downloads\ContosoUniversity (1)\ContosoUniversity (1)\ContosoUniversity\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\amand\Downloads\ContosoUniversity (1)\ContosoUniversity (1)\ContosoUniversity\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\amand\Downloads\ContosoUniversity (1)\ContosoUniversity (1)\ContosoUniversity\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\amand\Downloads\ContosoUniversity (1)\ContosoUniversity (1)\ContosoUniversity\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\amand\Downloads\ContosoUniversity (1)\ContosoUniversity (1)\ContosoUniversity\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\amand\Downloads\ContosoUniversity (1)\ContosoUniversity (1)\ContosoUniversity\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\amand\Downloads\ContosoUniversity (1)\ContosoUniversity (1)\ContosoUniversity\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\amand\Downloads\ContosoUniversity (1)\ContosoUniversity (1)\ContosoUniversity\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\amand\Downloads\ContosoUniversity (1)\ContosoUniversity (1)\ContosoUniversity\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\amand\Downloads\ContosoUniversity (1)\ContosoUniversity (1)\ContosoUniversity\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\amand\Downloads\ContosoUniversity (1)\ContosoUniversity (1)\ContosoUniversity\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\amand\Downloads\ContosoUniversity (1)\ContosoUniversity (1)\ContosoUniversity\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\amand\Downloads\ContosoUniversity (1)\ContosoUniversity (1)\ContosoUniversity\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\amand\Downloads\ContosoUniversity (1)\ContosoUniversity (1)\ContosoUniversity\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\amand\Downloads\ContosoUniversity (1)\ContosoUniversity (1)\ContosoUniversity\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\amand\Downloads\ContosoUniversity (1)\ContosoUniversity (1)\ContosoUniversity\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\amand\Downloads\ContosoUniversity (1)\ContosoUniversity (1)\ContosoUniversity\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\amand\Downloads\ContosoUniversity (1)\ContosoUniversity (1)\ContosoUniversity\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\amand\Downloads\ContosoUniversity (1)\ContosoUniversity (1)\ContosoUniversity\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\amand\Downloads\ContosoUniversity (1)\ContosoUniversity (1)\ContosoUniversity\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\amand\Downloads\ContosoUniversity (1)\ContosoUniversity (1)\ContosoUniversity\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\amand\Downloads\ContosoUniversity (1)\ContosoUniversity (1)\ContosoUniversity\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\amand\Downloads\ContosoUniversity (1)\ContosoUniversity (1)\ContosoUniversity\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\amand\Downloads\ContosoUniversity (1)\ContosoUniversity (1)\ContosoUniversity\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\amand\Downloads\ContosoUniversity (1)\ContosoUniversity (1)\ContosoUniversity\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\amand\Downloads\ContosoUniversity (1)\ContosoUniversity (1)\ContosoUniversity\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\amand\Downloads\ContosoUniversity (1)\ContosoUniversity (1)\ContosoUniversity\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\amand\Downloads\ContosoUniversity (1)\ContosoUniversity (1)\ContosoUniversity\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\amand\Downloads\ContosoUniversity (1)\ContosoUniversity (1)\ContosoUniversity\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\amand\Downloads\ContosoUniversity (1)\ContosoUniversity (1)\ContosoUniversity\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\amand\Downloads\ContosoUniversity (1)\ContosoUniversity (1)\ContosoUniversity\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\amand\Downloads\ContosoUniversity (1)\ContosoUniversity (1)\ContosoUniversity\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\amand\Downloads\ContosoUniversity (1)\ContosoUniversity (1)\ContosoUniversity\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\amand\Downloads\ContosoUniversity (1)\ContosoUniversity (1)\ContosoUniversity\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\amand\Downloads\ContosoUniversity (1)\ContosoUniversity (1)\ContosoUniversity\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\amand\Downloads\ContosoUniversity (1)\ContosoUniversity (1)\ContosoUniversity\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\amand\Downloads\ContosoUniversity (1)\ContosoUniversity (1)\ContosoUniversity\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\amand\Downloads\ContosoUniversity (1)\ContosoUniversity (1)\ContosoUniversity\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\amand\Downloads\ContosoUniversity (1)\ContosoUniversity (1)\ContosoUniversity\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\amand\Downloads\ContosoUniversity (1)\ContosoUniversity (1)\ContosoUniversity\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\amand\Downloads\ContosoUniversity (1)\ContosoUniversity (1)\ContosoUniversity\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\amand\Downloads\ContosoUniversity (1)\ContosoUniversity (1)\ContosoUniversity\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\amand\Downloads\ContosoUniversity (1)\ContosoUniversity (1)\ContosoUniversity\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\amand\Downloads\ContosoUniversity (1)\ContosoUniversity (1)\ContosoUniversity\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\amand\Downloads\ContosoUniversity (1)\ContosoUniversity (1)\ContosoUniversity\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\amand\Downloads\ContosoUniversity (1)\ContosoUniversity (1)\ContosoUniversity\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\amand\Downloads\ContosoUniversity (1)\ContosoUniversity (1)\ContosoUniversity\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\amand\Downloads\ContosoUniversity (1)\ContosoUniversity (1)\ContosoUniversity\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\amand\Downloads\ContosoUniversity (1)\ContosoUniversity (1)\ContosoUniversity\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\amand\Downloads\ContosoUniversity (1)\ContosoUniversity (1)\ContosoUniversity\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\amand\Downloads\ContosoUniversity (1)\ContosoUniversity (1)\ContosoUniversity\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\amand\Downloads\ContosoUniversity (1)\ContosoUniversity (1)\ContosoUniversity\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\amand\Downloads\ContosoUniversity (1)\ContosoUniversity (1)\ContosoUniversity\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\amand\Downloads\ContosoUniversity (1)\ContosoUniversity (1)\ContosoUniversity\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\amand\Downloads\ContosoUniversity (1)\ContosoUniversity (1)\ContosoUniversity\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\amand\Downloads\ContosoUniversity (1)\ContosoUniversity (1)\ContosoUniversity\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\amand\Downloads\ContosoUniversity (1)\ContosoUniversity (1)\ContosoUniversity\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\amand\Downloads\ContosoUniversity (1)\ContosoUniversity (1)\ContosoUniversity\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\amand\Downloads\ContosoUniversity (1)\ContosoUniversity (1)\ContosoUniversity\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\amand\Downloads\ContosoUniversity (1)\ContosoUniversity (1)\ContosoUniversity\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\amand\Downloads\ContosoUniversity (1)\ContosoUniversity (1)\ContosoUniversity\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\amand\Downloads\ContosoUniversity (1)\ContosoUniversity (1)\ContosoUniversity\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\amand\Downloads\ContosoUniversity (1)\ContosoUniversity (1)\ContosoUniversity\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\amand\Downloads\ContosoUniversity (1)\ContosoUniversity (1)\ContosoUniversity\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\amand\Downloads\ContosoUniversity (1)\ContosoUniversity (1)\ContosoUniversity\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\amand\Downloads\ContosoUniversity (1)\ContosoUniversity (1)\ContosoUniversity\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\amand\Downloads\ContosoUniversity (1)\ContosoUniversity (1)\ContosoUniversity\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\amand\Downloads\ContosoUniversity (1)\ContosoUniversity (1)\ContosoUniversity\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\amand\Downloads\ContosoUniversity (1)\ContosoUniversity (1)\ContosoUniversity\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\amand\Downloads\ContosoUniversity (1)\ContosoUniversity (1)\ContosoUniversity\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\amand\Downloads\ContosoUniversity (1)\ContosoUniversity (1)\ContosoUniversity\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\amand\Downloads\ContosoUniversity (1)\ContosoUniversity (1)\ContosoUniversity\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\amand\Downloads\ContosoUniversity (1)\ContosoUniversity (1)\ContosoUniversity\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\amand\Downloads\ContosoUniversity (1)\ContosoUniversity (1)\ContosoUniversity\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\amand\Downloads\ContosoUniversity (1)\ContosoUniversity (1)\ContosoUniversity\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\amand\Downloads\ContosoUniversity (1)\ContosoUniversity (1)\ContosoUniversity\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\amand\Downloads\ContosoUniversity (1)\ContosoUniversity (1)\ContosoUniversity\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\amand\Downloads\ContosoUniversity (1)\ContosoUniversity (1)\ContosoUniversity\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\amand\Downloads\ContosoUniversity (1)\ContosoUniversity (1)\ContosoUniversity\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\amand\Downloads\ContosoUniversity (1)\ContosoUniversity (1)\ContosoUniversity\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\amand\Downloads\ContosoUniversity (1)\ContosoUniversity (1)\ContosoUniversity\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\amand\Downloads\ContosoUniversity (1)\ContosoUniversity (1)\ContosoUniversity\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\amand\Downloads\ContosoUniversity (1)\ContosoUniversity (1)\ContosoUniversity\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\amand\Downloads\ContosoUniversity (1)\ContosoUniversity (1)\ContosoUniversity\obj\Debug\net8.0\ContosoUniversity.csproj.AssemblyReference.cache
+C:\Users\amand\Downloads\ContosoUniversity (1)\ContosoUniversity (1)\ContosoUniversity\obj\Debug\net8.0\ContosoUniversity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\amand\Downloads\ContosoUniversity (1)\ContosoUniversity (1)\ContosoUniversity\obj\Debug\net8.0\ContosoUniversity.AssemblyInfoInputs.cache
+C:\Users\amand\Downloads\ContosoUniversity (1)\ContosoUniversity (1)\ContosoUniversity\obj\Debug\net8.0\ContosoUniversity.AssemblyInfo.cs
+C:\Users\amand\Downloads\ContosoUniversity (1)\ContosoUniversity (1)\ContosoUniversity\obj\Debug\net8.0\ContosoUniversity.csproj.CoreCompileInputs.cache
+C:\Users\amand\Downloads\ContosoUniversity (1)\ContosoUniversity (1)\ContosoUniversity\obj\Debug\net8.0\ContosoUniversity.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\amand\Downloads\ContosoUniversity (1)\ContosoUniversity (1)\ContosoUniversity\obj\Debug\net8.0\ContosoUniversity.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\amand\Downloads\ContosoUniversity (1)\ContosoUniversity (1)\ContosoUniversity\obj\Debug\net8.0\ContosoUniversity.RazorAssemblyInfo.cache
+C:\Users\amand\Downloads\ContosoUniversity (1)\ContosoUniversity (1)\ContosoUniversity\obj\Debug\net8.0\ContosoUniversity.RazorAssemblyInfo.cs
+C:\Users\amand\Downloads\ContosoUniversity (1)\ContosoUniversity (1)\ContosoUniversity\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\amand\Downloads\ContosoUniversity (1)\ContosoUniversity (1)\ContosoUniversity\obj\Debug\net8.0\scopedcss\bundle\ContosoUniversity.styles.css
+C:\Users\amand\Downloads\ContosoUniversity (1)\ContosoUniversity (1)\ContosoUniversity\obj\Debug\net8.0\scopedcss\projectbundle\ContosoUniversity.bundle.scp.css
+C:\Users\amand\Downloads\ContosoUniversity (1)\ContosoUniversity (1)\ContosoUniversity\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\amand\Downloads\ContosoUniversity (1)\ContosoUniversity (1)\ContosoUniversity\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\amand\Downloads\ContosoUniversity (1)\ContosoUniversity (1)\ContosoUniversity\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\amand\Downloads\ContosoUniversity (1)\ContosoUniversity (1)\ContosoUniversity\obj\Debug\net8.0\staticwebassets\msbuild.ContosoUniversity.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\amand\Downloads\ContosoUniversity (1)\ContosoUniversity (1)\ContosoUniversity\obj\Debug\net8.0\staticwebassets\msbuild.ContosoUniversity.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\amand\Downloads\ContosoUniversity (1)\ContosoUniversity (1)\ContosoUniversity\obj\Debug\net8.0\staticwebassets\msbuild.build.ContosoUniversity.props
+C:\Users\amand\Downloads\ContosoUniversity (1)\ContosoUniversity (1)\ContosoUniversity\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.ContosoUniversity.props
+C:\Users\amand\Downloads\ContosoUniversity (1)\ContosoUniversity (1)\ContosoUniversity\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.ContosoUniversity.props
+C:\Users\amand\Downloads\ContosoUniversity (1)\ContosoUniversity (1)\ContosoUniversity\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\amand\Downloads\ContosoUniversity (1)\ContosoUniversity (1)\ContosoUniversity\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\amand\Downloads\ContosoUniversity (1)\ContosoUniversity (1)\ContosoUniversity\obj\Debug\net8.0\ContosoU.2F40B0B5.Up2Date
+C:\Users\amand\Downloads\ContosoUniversity (1)\ContosoUniversity (1)\ContosoUniversity\obj\Debug\net8.0\ContosoUniversity.dll
+C:\Users\amand\Downloads\ContosoUniversity (1)\ContosoUniversity (1)\ContosoUniversity\obj\Debug\net8.0\refint\ContosoUniversity.dll
+C:\Users\amand\Downloads\ContosoUniversity (1)\ContosoUniversity (1)\ContosoUniversity\obj\Debug\net8.0\ContosoUniversity.pdb
+C:\Users\amand\Downloads\ContosoUniversity (1)\ContosoUniversity (1)\ContosoUniversity\obj\Debug\net8.0\ContosoUniversity.genruntimeconfig.cache
+C:\Users\amand\Downloads\ContosoUniversity (1)\ContosoUniversity (1)\ContosoUniversity\obj\Debug\net8.0\ref\ContosoUniversity.dll
+C:\Users\amand\Downloads\ContosoUniversity (1)\ContosoUniversity (1)\ContosoUniversity\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\amand\Downloads\ContosoUniversity (1)\ContosoUniversity (1)\ContosoUniversity\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\amand\Downloads\ContosoUniversity (1)\ContosoUniversity (1)\ContosoUniversity\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\amand\Downloads\ContosoUniversity (1)\ContosoUniversity (1)\ContosoUniversity\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\amand\Downloads\ContosoUniversity (1)\ContosoUniversity (1)\ContosoUniversity\bin\Debug\net8.0\runtimes\win\lib\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\amand\Downloads\ContosoUniversity (1)\ContosoUniversity (1)\ContosoUniversity\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Drawing.Common.dll
+C:\Users\amand\Downloads\ContosoUniversity (1)\ContosoUniversity (1)\ContosoUniversity\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\amand\Downloads\ContosoUniversity (1)\ContosoUniversity (1)\ContosoUniversity\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Windows.Extensions.dll
+C:\Users\ashish\Downloads\ContosoUniversity 1\ContosoUniversity\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\ashish\Downloads\ContosoUniversity 1\ContosoUniversity\bin\Debug\net8.0\appsettings.json
+C:\Users\ashish\Downloads\ContosoUniversity 1\ContosoUniversity\bin\Debug\net8.0\ContosoUniversity.staticwebassets.runtime.json
+C:\Users\ashish\Downloads\ContosoUniversity 1\ContosoUniversity\bin\Debug\net8.0\ContosoUniversity.staticwebassets.endpoints.json
+C:\Users\ashish\Downloads\ContosoUniversity 1\ContosoUniversity\bin\Debug\net8.0\ContosoUniversity.exe
+C:\Users\ashish\Downloads\ContosoUniversity 1\ContosoUniversity\bin\Debug\net8.0\ContosoUniversity.deps.json
+C:\Users\ashish\Downloads\ContosoUniversity 1\ContosoUniversity\bin\Debug\net8.0\ContosoUniversity.runtimeconfig.json
+C:\Users\ashish\Downloads\ContosoUniversity 1\ContosoUniversity\bin\Debug\net8.0\ContosoUniversity.dll
+C:\Users\ashish\Downloads\ContosoUniversity 1\ContosoUniversity\bin\Debug\net8.0\ContosoUniversity.pdb
+C:\Users\ashish\Downloads\ContosoUniversity 1\ContosoUniversity\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\ashish\Downloads\ContosoUniversity 1\ContosoUniversity\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\ashish\Downloads\ContosoUniversity 1\ContosoUniversity\bin\Debug\net8.0\Humanizer.dll
+C:\Users\ashish\Downloads\ContosoUniversity 1\ContosoUniversity\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\ashish\Downloads\ContosoUniversity 1\ContosoUniversity\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\ashish\Downloads\ContosoUniversity 1\ContosoUniversity\bin\Debug\net8.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+C:\Users\ashish\Downloads\ContosoUniversity 1\ContosoUniversity\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\ashish\Downloads\ContosoUniversity 1\ContosoUniversity\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.UI.dll
+C:\Users\ashish\Downloads\ContosoUniversity 1\ContosoUniversity\bin\Debug\net8.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\ashish\Downloads\ContosoUniversity 1\ContosoUniversity\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\ashish\Downloads\ContosoUniversity 1\ContosoUniversity\bin\Debug\net8.0\Microsoft.Build.dll
+C:\Users\ashish\Downloads\ContosoUniversity 1\ContosoUniversity\bin\Debug\net8.0\Microsoft.Build.Framework.dll
+C:\Users\ashish\Downloads\ContosoUniversity 1\ContosoUniversity\bin\Debug\net8.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+C:\Users\ashish\Downloads\ContosoUniversity 1\ContosoUniversity\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\Users\ashish\Downloads\ContosoUniversity 1\ContosoUniversity\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ashish\Downloads\ContosoUniversity 1\ContosoUniversity\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+C:\Users\ashish\Downloads\ContosoUniversity 1\ContosoUniversity\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\ashish\Downloads\ContosoUniversity 1\ContosoUniversity\bin\Debug\net8.0\Microsoft.CodeAnalysis.Elfie.dll
+C:\Users\ashish\Downloads\ContosoUniversity 1\ContosoUniversity\bin\Debug\net8.0\Microsoft.CodeAnalysis.Features.dll
+C:\Users\ashish\Downloads\ContosoUniversity 1\ContosoUniversity\bin\Debug\net8.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\ashish\Downloads\ContosoUniversity 1\ContosoUniversity\bin\Debug\net8.0\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\ashish\Downloads\ContosoUniversity 1\ContosoUniversity\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\ashish\Downloads\ContosoUniversity 1\ContosoUniversity\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\ashish\Downloads\ContosoUniversity 1\ContosoUniversity\bin\Debug\net8.0\Microsoft.DiaSymReader.dll
+C:\Users\ashish\Downloads\ContosoUniversity 1\ContosoUniversity\bin\Debug\net8.0\Microsoft.DotNet.Scaffolding.Shared.dll
+C:\Users\ashish\Downloads\ContosoUniversity 1\ContosoUniversity\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\ashish\Downloads\ContosoUniversity 1\ContosoUniversity\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\ashish\Downloads\ContosoUniversity 1\ContosoUniversity\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\ashish\Downloads\ContosoUniversity 1\ContosoUniversity\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\ashish\Downloads\ContosoUniversity 1\ContosoUniversity\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\ashish\Downloads\ContosoUniversity 1\ContosoUniversity\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\ashish\Downloads\ContosoUniversity 1\ContosoUniversity\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\ashish\Downloads\ContosoUniversity 1\ContosoUniversity\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\ashish\Downloads\ContosoUniversity 1\ContosoUniversity\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\ashish\Downloads\ContosoUniversity 1\ContosoUniversity\bin\Debug\net8.0\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Users\ashish\Downloads\ContosoUniversity 1\ContosoUniversity\bin\Debug\net8.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\ashish\Downloads\ContosoUniversity 1\ContosoUniversity\bin\Debug\net8.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\ashish\Downloads\ContosoUniversity 1\ContosoUniversity\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\Users\ashish\Downloads\ContosoUniversity 1\ContosoUniversity\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\ashish\Downloads\ContosoUniversity 1\ContosoUniversity\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\ashish\Downloads\ContosoUniversity 1\ContosoUniversity\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\ashish\Downloads\ContosoUniversity 1\ContosoUniversity\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\ashish\Downloads\ContosoUniversity 1\ContosoUniversity\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\ashish\Downloads\ContosoUniversity 1\ContosoUniversity\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\ashish\Downloads\ContosoUniversity 1\ContosoUniversity\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\ashish\Downloads\ContosoUniversity 1\ContosoUniversity\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\ashish\Downloads\ContosoUniversity 1\ContosoUniversity\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\ashish\Downloads\ContosoUniversity 1\ContosoUniversity\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\ashish\Downloads\ContosoUniversity 1\ContosoUniversity\bin\Debug\net8.0\Microsoft.NET.StringTools.dll
+C:\Users\ashish\Downloads\ContosoUniversity 1\ContosoUniversity\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\ashish\Downloads\ContosoUniversity 1\ContosoUniversity\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\ashish\Downloads\ContosoUniversity 1\ContosoUniversity\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\ashish\Downloads\ContosoUniversity 1\ContosoUniversity\bin\Debug\net8.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\ashish\Downloads\ContosoUniversity 1\ContosoUniversity\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\ashish\Downloads\ContosoUniversity 1\ContosoUniversity\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\ashish\Downloads\ContosoUniversity 1\ContosoUniversity\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\ashish\Downloads\ContosoUniversity 1\ContosoUniversity\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\ashish\Downloads\ContosoUniversity 1\ContosoUniversity\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\ashish\Downloads\ContosoUniversity 1\ContosoUniversity\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Users\ashish\Downloads\ContosoUniversity 1\ContosoUniversity\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\ashish\Downloads\ContosoUniversity 1\ContosoUniversity\bin\Debug\net8.0\NuGet.Common.dll
+C:\Users\ashish\Downloads\ContosoUniversity 1\ContosoUniversity\bin\Debug\net8.0\NuGet.Configuration.dll
+C:\Users\ashish\Downloads\ContosoUniversity 1\ContosoUniversity\bin\Debug\net8.0\NuGet.DependencyResolver.Core.dll
+C:\Users\ashish\Downloads\ContosoUniversity 1\ContosoUniversity\bin\Debug\net8.0\NuGet.Frameworks.dll
+C:\Users\ashish\Downloads\ContosoUniversity 1\ContosoUniversity\bin\Debug\net8.0\NuGet.LibraryModel.dll
+C:\Users\ashish\Downloads\ContosoUniversity 1\ContosoUniversity\bin\Debug\net8.0\NuGet.Packaging.dll
+C:\Users\ashish\Downloads\ContosoUniversity 1\ContosoUniversity\bin\Debug\net8.0\NuGet.ProjectModel.dll
+C:\Users\ashish\Downloads\ContosoUniversity 1\ContosoUniversity\bin\Debug\net8.0\NuGet.Protocol.dll
+C:\Users\ashish\Downloads\ContosoUniversity 1\ContosoUniversity\bin\Debug\net8.0\NuGet.Versioning.dll
+C:\Users\ashish\Downloads\ContosoUniversity 1\ContosoUniversity\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\ashish\Downloads\ContosoUniversity 1\ContosoUniversity\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\Users\ashish\Downloads\ContosoUniversity 1\ContosoUniversity\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\Users\ashish\Downloads\ContosoUniversity 1\ContosoUniversity\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\Users\ashish\Downloads\ContosoUniversity 1\ContosoUniversity\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\Users\ashish\Downloads\ContosoUniversity 1\ContosoUniversity\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\Users\ashish\Downloads\ContosoUniversity 1\ContosoUniversity\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\ashish\Downloads\ContosoUniversity 1\ContosoUniversity\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\ashish\Downloads\ContosoUniversity 1\ContosoUniversity\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\ashish\Downloads\ContosoUniversity 1\ContosoUniversity\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\ashish\Downloads\ContosoUniversity 1\ContosoUniversity\bin\Debug\net8.0\System.Reflection.MetadataLoadContext.dll
+C:\Users\ashish\Downloads\ContosoUniversity 1\ContosoUniversity\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Users\ashish\Downloads\ContosoUniversity 1\ContosoUniversity\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ashish\Downloads\ContosoUniversity 1\ContosoUniversity\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\ashish\Downloads\ContosoUniversity 1\ContosoUniversity\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\ashish\Downloads\ContosoUniversity 1\ContosoUniversity\bin\Debug\net8.0\af\Humanizer.resources.dll
+C:\Users\ashish\Downloads\ContosoUniversity 1\ContosoUniversity\bin\Debug\net8.0\ar\Humanizer.resources.dll
+C:\Users\ashish\Downloads\ContosoUniversity 1\ContosoUniversity\bin\Debug\net8.0\az\Humanizer.resources.dll
+C:\Users\ashish\Downloads\ContosoUniversity 1\ContosoUniversity\bin\Debug\net8.0\bg\Humanizer.resources.dll
+C:\Users\ashish\Downloads\ContosoUniversity 1\ContosoUniversity\bin\Debug\net8.0\bn-BD\Humanizer.resources.dll
+C:\Users\ashish\Downloads\ContosoUniversity 1\ContosoUniversity\bin\Debug\net8.0\cs\Humanizer.resources.dll
+C:\Users\ashish\Downloads\ContosoUniversity 1\ContosoUniversity\bin\Debug\net8.0\da\Humanizer.resources.dll
+C:\Users\ashish\Downloads\ContosoUniversity 1\ContosoUniversity\bin\Debug\net8.0\de\Humanizer.resources.dll
+C:\Users\ashish\Downloads\ContosoUniversity 1\ContosoUniversity\bin\Debug\net8.0\el\Humanizer.resources.dll
+C:\Users\ashish\Downloads\ContosoUniversity 1\ContosoUniversity\bin\Debug\net8.0\es\Humanizer.resources.dll
+C:\Users\ashish\Downloads\ContosoUniversity 1\ContosoUniversity\bin\Debug\net8.0\fa\Humanizer.resources.dll
+C:\Users\ashish\Downloads\ContosoUniversity 1\ContosoUniversity\bin\Debug\net8.0\fi-FI\Humanizer.resources.dll
+C:\Users\ashish\Downloads\ContosoUniversity 1\ContosoUniversity\bin\Debug\net8.0\fr\Humanizer.resources.dll
+C:\Users\ashish\Downloads\ContosoUniversity 1\ContosoUniversity\bin\Debug\net8.0\fr-BE\Humanizer.resources.dll
+C:\Users\ashish\Downloads\ContosoUniversity 1\ContosoUniversity\bin\Debug\net8.0\he\Humanizer.resources.dll
+C:\Users\ashish\Downloads\ContosoUniversity 1\ContosoUniversity\bin\Debug\net8.0\hr\Humanizer.resources.dll
+C:\Users\ashish\Downloads\ContosoUniversity 1\ContosoUniversity\bin\Debug\net8.0\hu\Humanizer.resources.dll
+C:\Users\ashish\Downloads\ContosoUniversity 1\ContosoUniversity\bin\Debug\net8.0\hy\Humanizer.resources.dll
+C:\Users\ashish\Downloads\ContosoUniversity 1\ContosoUniversity\bin\Debug\net8.0\id\Humanizer.resources.dll
+C:\Users\ashish\Downloads\ContosoUniversity 1\ContosoUniversity\bin\Debug\net8.0\is\Humanizer.resources.dll
+C:\Users\ashish\Downloads\ContosoUniversity 1\ContosoUniversity\bin\Debug\net8.0\it\Humanizer.resources.dll
+C:\Users\ashish\Downloads\ContosoUniversity 1\ContosoUniversity\bin\Debug\net8.0\ja\Humanizer.resources.dll
+C:\Users\ashish\Downloads\ContosoUniversity 1\ContosoUniversity\bin\Debug\net8.0\ko-KR\Humanizer.resources.dll
+C:\Users\ashish\Downloads\ContosoUniversity 1\ContosoUniversity\bin\Debug\net8.0\ku\Humanizer.resources.dll
+C:\Users\ashish\Downloads\ContosoUniversity 1\ContosoUniversity\bin\Debug\net8.0\lv\Humanizer.resources.dll
+C:\Users\ashish\Downloads\ContosoUniversity 1\ContosoUniversity\bin\Debug\net8.0\ms-MY\Humanizer.resources.dll
+C:\Users\ashish\Downloads\ContosoUniversity 1\ContosoUniversity\bin\Debug\net8.0\mt\Humanizer.resources.dll
+C:\Users\ashish\Downloads\ContosoUniversity 1\ContosoUniversity\bin\Debug\net8.0\nb\Humanizer.resources.dll
+C:\Users\ashish\Downloads\ContosoUniversity 1\ContosoUniversity\bin\Debug\net8.0\nb-NO\Humanizer.resources.dll
+C:\Users\ashish\Downloads\ContosoUniversity 1\ContosoUniversity\bin\Debug\net8.0\nl\Humanizer.resources.dll
+C:\Users\ashish\Downloads\ContosoUniversity 1\ContosoUniversity\bin\Debug\net8.0\pl\Humanizer.resources.dll
+C:\Users\ashish\Downloads\ContosoUniversity 1\ContosoUniversity\bin\Debug\net8.0\pt\Humanizer.resources.dll
+C:\Users\ashish\Downloads\ContosoUniversity 1\ContosoUniversity\bin\Debug\net8.0\ro\Humanizer.resources.dll
+C:\Users\ashish\Downloads\ContosoUniversity 1\ContosoUniversity\bin\Debug\net8.0\ru\Humanizer.resources.dll
+C:\Users\ashish\Downloads\ContosoUniversity 1\ContosoUniversity\bin\Debug\net8.0\sk\Humanizer.resources.dll
+C:\Users\ashish\Downloads\ContosoUniversity 1\ContosoUniversity\bin\Debug\net8.0\sl\Humanizer.resources.dll
+C:\Users\ashish\Downloads\ContosoUniversity 1\ContosoUniversity\bin\Debug\net8.0\sr\Humanizer.resources.dll
+C:\Users\ashish\Downloads\ContosoUniversity 1\ContosoUniversity\bin\Debug\net8.0\sr-Latn\Humanizer.resources.dll
+C:\Users\ashish\Downloads\ContosoUniversity 1\ContosoUniversity\bin\Debug\net8.0\sv\Humanizer.resources.dll
+C:\Users\ashish\Downloads\ContosoUniversity 1\ContosoUniversity\bin\Debug\net8.0\th-TH\Humanizer.resources.dll
+C:\Users\ashish\Downloads\ContosoUniversity 1\ContosoUniversity\bin\Debug\net8.0\tr\Humanizer.resources.dll
+C:\Users\ashish\Downloads\ContosoUniversity 1\ContosoUniversity\bin\Debug\net8.0\uk\Humanizer.resources.dll
+C:\Users\ashish\Downloads\ContosoUniversity 1\ContosoUniversity\bin\Debug\net8.0\uz-Cyrl-UZ\Humanizer.resources.dll
+C:\Users\ashish\Downloads\ContosoUniversity 1\ContosoUniversity\bin\Debug\net8.0\uz-Latn-UZ\Humanizer.resources.dll
+C:\Users\ashish\Downloads\ContosoUniversity 1\ContosoUniversity\bin\Debug\net8.0\vi\Humanizer.resources.dll
+C:\Users\ashish\Downloads\ContosoUniversity 1\ContosoUniversity\bin\Debug\net8.0\zh-CN\Humanizer.resources.dll
+C:\Users\ashish\Downloads\ContosoUniversity 1\ContosoUniversity\bin\Debug\net8.0\zh-Hans\Humanizer.resources.dll
+C:\Users\ashish\Downloads\ContosoUniversity 1\ContosoUniversity\bin\Debug\net8.0\zh-Hant\Humanizer.resources.dll
+C:\Users\ashish\Downloads\ContosoUniversity 1\ContosoUniversity\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ashish\Downloads\ContosoUniversity 1\ContosoUniversity\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ashish\Downloads\ContosoUniversity 1\ContosoUniversity\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ashish\Downloads\ContosoUniversity 1\ContosoUniversity\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ashish\Downloads\ContosoUniversity 1\ContosoUniversity\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ashish\Downloads\ContosoUniversity 1\ContosoUniversity\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ashish\Downloads\ContosoUniversity 1\ContosoUniversity\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ashish\Downloads\ContosoUniversity 1\ContosoUniversity\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ashish\Downloads\ContosoUniversity 1\ContosoUniversity\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ashish\Downloads\ContosoUniversity 1\ContosoUniversity\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ashish\Downloads\ContosoUniversity 1\ContosoUniversity\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ashish\Downloads\ContosoUniversity 1\ContosoUniversity\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ashish\Downloads\ContosoUniversity 1\ContosoUniversity\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ashish\Downloads\ContosoUniversity 1\ContosoUniversity\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ashish\Downloads\ContosoUniversity 1\ContosoUniversity\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ashish\Downloads\ContosoUniversity 1\ContosoUniversity\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ashish\Downloads\ContosoUniversity 1\ContosoUniversity\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ashish\Downloads\ContosoUniversity 1\ContosoUniversity\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ashish\Downloads\ContosoUniversity 1\ContosoUniversity\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ashish\Downloads\ContosoUniversity 1\ContosoUniversity\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ashish\Downloads\ContosoUniversity 1\ContosoUniversity\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ashish\Downloads\ContosoUniversity 1\ContosoUniversity\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ashish\Downloads\ContosoUniversity 1\ContosoUniversity\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ashish\Downloads\ContosoUniversity 1\ContosoUniversity\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ashish\Downloads\ContosoUniversity 1\ContosoUniversity\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ashish\Downloads\ContosoUniversity 1\ContosoUniversity\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ashish\Downloads\ContosoUniversity 1\ContosoUniversity\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\ashish\Downloads\ContosoUniversity 1\ContosoUniversity\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\ashish\Downloads\ContosoUniversity 1\ContosoUniversity\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\ashish\Downloads\ContosoUniversity 1\ContosoUniversity\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\ashish\Downloads\ContosoUniversity 1\ContosoUniversity\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\ashish\Downloads\ContosoUniversity 1\ContosoUniversity\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\ashish\Downloads\ContosoUniversity 1\ContosoUniversity\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\ashish\Downloads\ContosoUniversity 1\ContosoUniversity\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\ashish\Downloads\ContosoUniversity 1\ContosoUniversity\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\ashish\Downloads\ContosoUniversity 1\ContosoUniversity\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\ashish\Downloads\ContosoUniversity 1\ContosoUniversity\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\ashish\Downloads\ContosoUniversity 1\ContosoUniversity\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\ashish\Downloads\ContosoUniversity 1\ContosoUniversity\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\ashish\Downloads\ContosoUniversity 1\ContosoUniversity\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ashish\Downloads\ContosoUniversity 1\ContosoUniversity\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ashish\Downloads\ContosoUniversity 1\ContosoUniversity\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ashish\Downloads\ContosoUniversity 1\ContosoUniversity\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ashish\Downloads\ContosoUniversity 1\ContosoUniversity\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ashish\Downloads\ContosoUniversity 1\ContosoUniversity\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ashish\Downloads\ContosoUniversity 1\ContosoUniversity\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ashish\Downloads\ContosoUniversity 1\ContosoUniversity\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ashish\Downloads\ContosoUniversity 1\ContosoUniversity\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ashish\Downloads\ContosoUniversity 1\ContosoUniversity\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ashish\Downloads\ContosoUniversity 1\ContosoUniversity\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ashish\Downloads\ContosoUniversity 1\ContosoUniversity\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ashish\Downloads\ContosoUniversity 1\ContosoUniversity\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ashish\Downloads\ContosoUniversity 1\ContosoUniversity\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\ashish\Downloads\ContosoUniversity 1\ContosoUniversity\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\ashish\Downloads\ContosoUniversity 1\ContosoUniversity\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\ashish\Downloads\ContosoUniversity 1\ContosoUniversity\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\ashish\Downloads\ContosoUniversity 1\ContosoUniversity\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\ashish\Downloads\ContosoUniversity 1\ContosoUniversity\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\ashish\Downloads\ContosoUniversity 1\ContosoUniversity\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\ashish\Downloads\ContosoUniversity 1\ContosoUniversity\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\ashish\Downloads\ContosoUniversity 1\ContosoUniversity\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\ashish\Downloads\ContosoUniversity 1\ContosoUniversity\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\ashish\Downloads\ContosoUniversity 1\ContosoUniversity\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\ashish\Downloads\ContosoUniversity 1\ContosoUniversity\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\ashish\Downloads\ContosoUniversity 1\ContosoUniversity\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\ashish\Downloads\ContosoUniversity 1\ContosoUniversity\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\ashish\Downloads\ContosoUniversity 1\ContosoUniversity\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\ashish\Downloads\ContosoUniversity 1\ContosoUniversity\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\ashish\Downloads\ContosoUniversity 1\ContosoUniversity\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\ashish\Downloads\ContosoUniversity 1\ContosoUniversity\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\ashish\Downloads\ContosoUniversity 1\ContosoUniversity\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\ashish\Downloads\ContosoUniversity 1\ContosoUniversity\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\ashish\Downloads\ContosoUniversity 1\ContosoUniversity\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\ashish\Downloads\ContosoUniversity 1\ContosoUniversity\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\ashish\Downloads\ContosoUniversity 1\ContosoUniversity\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\ashish\Downloads\ContosoUniversity 1\ContosoUniversity\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\ashish\Downloads\ContosoUniversity 1\ContosoUniversity\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\ashish\Downloads\ContosoUniversity 1\ContosoUniversity\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\ashish\Downloads\ContosoUniversity 1\ContosoUniversity\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ashish\Downloads\ContosoUniversity 1\ContosoUniversity\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ashish\Downloads\ContosoUniversity 1\ContosoUniversity\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ashish\Downloads\ContosoUniversity 1\ContosoUniversity\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ashish\Downloads\ContosoUniversity 1\ContosoUniversity\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ashish\Downloads\ContosoUniversity 1\ContosoUniversity\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ashish\Downloads\ContosoUniversity 1\ContosoUniversity\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ashish\Downloads\ContosoUniversity 1\ContosoUniversity\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ashish\Downloads\ContosoUniversity 1\ContosoUniversity\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ashish\Downloads\ContosoUniversity 1\ContosoUniversity\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ashish\Downloads\ContosoUniversity 1\ContosoUniversity\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ashish\Downloads\ContosoUniversity 1\ContosoUniversity\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ashish\Downloads\ContosoUniversity 1\ContosoUniversity\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ashish\Downloads\ContosoUniversity 1\ContosoUniversity\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\ashish\Downloads\ContosoUniversity 1\ContosoUniversity\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\ashish\Downloads\ContosoUniversity 1\ContosoUniversity\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ashish\Downloads\ContosoUniversity 1\ContosoUniversity\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ashish\Downloads\ContosoUniversity 1\ContosoUniversity\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ashish\Downloads\ContosoUniversity 1\ContosoUniversity\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ashish\Downloads\ContosoUniversity 1\ContosoUniversity\bin\Debug\net8.0\runtimes\win\lib\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\ashish\Downloads\ContosoUniversity 1\ContosoUniversity\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Drawing.Common.dll
+C:\Users\ashish\Downloads\ContosoUniversity 1\ContosoUniversity\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\ashish\Downloads\ContosoUniversity 1\ContosoUniversity\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ashish\Downloads\ContosoUniversity 1\ContosoUniversity\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Windows.Extensions.dll
+C:\Users\ashish\Downloads\ContosoUniversity 1\ContosoUniversity\obj\Debug\net8.0\ContosoUniversity.csproj.AssemblyReference.cache
+C:\Users\ashish\Downloads\ContosoUniversity 1\ContosoUniversity\obj\Debug\net8.0\ContosoUniversity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ashish\Downloads\ContosoUniversity 1\ContosoUniversity\obj\Debug\net8.0\ContosoUniversity.AssemblyInfoInputs.cache
+C:\Users\ashish\Downloads\ContosoUniversity 1\ContosoUniversity\obj\Debug\net8.0\ContosoUniversity.AssemblyInfo.cs
+C:\Users\ashish\Downloads\ContosoUniversity 1\ContosoUniversity\obj\Debug\net8.0\ContosoUniversity.csproj.CoreCompileInputs.cache
+C:\Users\ashish\Downloads\ContosoUniversity 1\ContosoUniversity\obj\Debug\net8.0\ContosoUniversity.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\ashish\Downloads\ContosoUniversity 1\ContosoUniversity\obj\Debug\net8.0\ContosoUniversity.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ashish\Downloads\ContosoUniversity 1\ContosoUniversity\obj\Debug\net8.0\ContosoUniversity.RazorAssemblyInfo.cache
+C:\Users\ashish\Downloads\ContosoUniversity 1\ContosoUniversity\obj\Debug\net8.0\ContosoUniversity.RazorAssemblyInfo.cs
+C:\Users\ashish\Downloads\ContosoUniversity 1\ContosoUniversity\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\ashish\Downloads\ContosoUniversity 1\ContosoUniversity\obj\Debug\net8.0\scopedcss\bundle\ContosoUniversity.styles.css
+C:\Users\ashish\Downloads\ContosoUniversity 1\ContosoUniversity\obj\Debug\net8.0\scopedcss\projectbundle\ContosoUniversity.bundle.scp.css
+C:\Users\ashish\Downloads\ContosoUniversity 1\ContosoUniversity\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\ashish\Downloads\ContosoUniversity 1\ContosoUniversity\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\ashish\Downloads\ContosoUniversity 1\ContosoUniversity\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\ashish\Downloads\ContosoUniversity 1\ContosoUniversity\obj\Debug\net8.0\staticwebassets\msbuild.ContosoUniversity.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\ashish\Downloads\ContosoUniversity 1\ContosoUniversity\obj\Debug\net8.0\staticwebassets\msbuild.ContosoUniversity.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\ashish\Downloads\ContosoUniversity 1\ContosoUniversity\obj\Debug\net8.0\staticwebassets\msbuild.build.ContosoUniversity.props
+C:\Users\ashish\Downloads\ContosoUniversity 1\ContosoUniversity\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.ContosoUniversity.props
+C:\Users\ashish\Downloads\ContosoUniversity 1\ContosoUniversity\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.ContosoUniversity.props
+C:\Users\ashish\Downloads\ContosoUniversity 1\ContosoUniversity\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\ashish\Downloads\ContosoUniversity 1\ContosoUniversity\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\ashish\Downloads\ContosoUniversity 1\ContosoUniversity\obj\Debug\net8.0\ContosoU.2F40B0B5.Up2Date
+C:\Users\ashish\Downloads\ContosoUniversity 1\ContosoUniversity\obj\Debug\net8.0\ContosoUniversity.dll
+C:\Users\ashish\Downloads\ContosoUniversity 1\ContosoUniversity\obj\Debug\net8.0\refint\ContosoUniversity.dll
+C:\Users\ashish\Downloads\ContosoUniversity 1\ContosoUniversity\obj\Debug\net8.0\ContosoUniversity.pdb
+C:\Users\ashish\Downloads\ContosoUniversity 1\ContosoUniversity\obj\Debug\net8.0\ContosoUniversity.genruntimeconfig.cache
+C:\Users\ashish\Downloads\ContosoUniversity 1\ContosoUniversity\obj\Debug\net8.0\ref\ContosoUniversity.dll
+C:\Users\ashish\Desktop\ContosoUniversity 1\ContosoUniversity\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\ashish\Desktop\ContosoUniversity 1\ContosoUniversity\bin\Debug\net8.0\appsettings.json
+C:\Users\ashish\Desktop\ContosoUniversity 1\ContosoUniversity\bin\Debug\net8.0\ContosoUniversity.staticwebassets.endpoints.json
+C:\Users\ashish\Desktop\ContosoUniversity 1\ContosoUniversity\bin\Debug\net8.0\ContosoUniversity.staticwebassets.runtime.json
+C:\Users\ashish\Desktop\ContosoUniversity 1\ContosoUniversity\bin\Debug\net8.0\ContosoUniversity.exe
+C:\Users\ashish\Desktop\ContosoUniversity 1\ContosoUniversity\bin\Debug\net8.0\ContosoUniversity.deps.json
+C:\Users\ashish\Desktop\ContosoUniversity 1\ContosoUniversity\bin\Debug\net8.0\ContosoUniversity.runtimeconfig.json
+C:\Users\ashish\Desktop\ContosoUniversity 1\ContosoUniversity\bin\Debug\net8.0\ContosoUniversity.dll
+C:\Users\ashish\Desktop\ContosoUniversity 1\ContosoUniversity\bin\Debug\net8.0\ContosoUniversity.pdb
+C:\Users\ashish\Desktop\ContosoUniversity 1\ContosoUniversity\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\ashish\Desktop\ContosoUniversity 1\ContosoUniversity\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\ashish\Desktop\ContosoUniversity 1\ContosoUniversity\bin\Debug\net8.0\Humanizer.dll
+C:\Users\ashish\Desktop\ContosoUniversity 1\ContosoUniversity\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\ashish\Desktop\ContosoUniversity 1\ContosoUniversity\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\ashish\Desktop\ContosoUniversity 1\ContosoUniversity\bin\Debug\net8.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+C:\Users\ashish\Desktop\ContosoUniversity 1\ContosoUniversity\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\ashish\Desktop\ContosoUniversity 1\ContosoUniversity\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.UI.dll
+C:\Users\ashish\Desktop\ContosoUniversity 1\ContosoUniversity\bin\Debug\net8.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\ashish\Desktop\ContosoUniversity 1\ContosoUniversity\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\ashish\Desktop\ContosoUniversity 1\ContosoUniversity\bin\Debug\net8.0\Microsoft.Build.dll
+C:\Users\ashish\Desktop\ContosoUniversity 1\ContosoUniversity\bin\Debug\net8.0\Microsoft.Build.Framework.dll
+C:\Users\ashish\Desktop\ContosoUniversity 1\ContosoUniversity\bin\Debug\net8.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+C:\Users\ashish\Desktop\ContosoUniversity 1\ContosoUniversity\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\Users\ashish\Desktop\ContosoUniversity 1\ContosoUniversity\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ashish\Desktop\ContosoUniversity 1\ContosoUniversity\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+C:\Users\ashish\Desktop\ContosoUniversity 1\ContosoUniversity\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\ashish\Desktop\ContosoUniversity 1\ContosoUniversity\bin\Debug\net8.0\Microsoft.CodeAnalysis.Elfie.dll
+C:\Users\ashish\Desktop\ContosoUniversity 1\ContosoUniversity\bin\Debug\net8.0\Microsoft.CodeAnalysis.Features.dll
+C:\Users\ashish\Desktop\ContosoUniversity 1\ContosoUniversity\bin\Debug\net8.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\ashish\Desktop\ContosoUniversity 1\ContosoUniversity\bin\Debug\net8.0\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\ashish\Desktop\ContosoUniversity 1\ContosoUniversity\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\ashish\Desktop\ContosoUniversity 1\ContosoUniversity\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\ashish\Desktop\ContosoUniversity 1\ContosoUniversity\bin\Debug\net8.0\Microsoft.DiaSymReader.dll
+C:\Users\ashish\Desktop\ContosoUniversity 1\ContosoUniversity\bin\Debug\net8.0\Microsoft.DotNet.Scaffolding.Shared.dll
+C:\Users\ashish\Desktop\ContosoUniversity 1\ContosoUniversity\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\ashish\Desktop\ContosoUniversity 1\ContosoUniversity\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\ashish\Desktop\ContosoUniversity 1\ContosoUniversity\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\ashish\Desktop\ContosoUniversity 1\ContosoUniversity\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\ashish\Desktop\ContosoUniversity 1\ContosoUniversity\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\ashish\Desktop\ContosoUniversity 1\ContosoUniversity\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\ashish\Desktop\ContosoUniversity 1\ContosoUniversity\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\ashish\Desktop\ContosoUniversity 1\ContosoUniversity\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\ashish\Desktop\ContosoUniversity 1\ContosoUniversity\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\ashish\Desktop\ContosoUniversity 1\ContosoUniversity\bin\Debug\net8.0\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Users\ashish\Desktop\ContosoUniversity 1\ContosoUniversity\bin\Debug\net8.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\ashish\Desktop\ContosoUniversity 1\ContosoUniversity\bin\Debug\net8.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\ashish\Desktop\ContosoUniversity 1\ContosoUniversity\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\Users\ashish\Desktop\ContosoUniversity 1\ContosoUniversity\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\ashish\Desktop\ContosoUniversity 1\ContosoUniversity\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\ashish\Desktop\ContosoUniversity 1\ContosoUniversity\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\ashish\Desktop\ContosoUniversity 1\ContosoUniversity\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\ashish\Desktop\ContosoUniversity 1\ContosoUniversity\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\ashish\Desktop\ContosoUniversity 1\ContosoUniversity\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\ashish\Desktop\ContosoUniversity 1\ContosoUniversity\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\ashish\Desktop\ContosoUniversity 1\ContosoUniversity\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\ashish\Desktop\ContosoUniversity 1\ContosoUniversity\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\ashish\Desktop\ContosoUniversity 1\ContosoUniversity\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\ashish\Desktop\ContosoUniversity 1\ContosoUniversity\bin\Debug\net8.0\Microsoft.NET.StringTools.dll
+C:\Users\ashish\Desktop\ContosoUniversity 1\ContosoUniversity\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\ashish\Desktop\ContosoUniversity 1\ContosoUniversity\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\ashish\Desktop\ContosoUniversity 1\ContosoUniversity\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\ashish\Desktop\ContosoUniversity 1\ContosoUniversity\bin\Debug\net8.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\ashish\Desktop\ContosoUniversity 1\ContosoUniversity\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\ashish\Desktop\ContosoUniversity 1\ContosoUniversity\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\ashish\Desktop\ContosoUniversity 1\ContosoUniversity\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\ashish\Desktop\ContosoUniversity 1\ContosoUniversity\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\ashish\Desktop\ContosoUniversity 1\ContosoUniversity\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\ashish\Desktop\ContosoUniversity 1\ContosoUniversity\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Users\ashish\Desktop\ContosoUniversity 1\ContosoUniversity\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\ashish\Desktop\ContosoUniversity 1\ContosoUniversity\bin\Debug\net8.0\NuGet.Common.dll
+C:\Users\ashish\Desktop\ContosoUniversity 1\ContosoUniversity\bin\Debug\net8.0\NuGet.Configuration.dll
+C:\Users\ashish\Desktop\ContosoUniversity 1\ContosoUniversity\bin\Debug\net8.0\NuGet.DependencyResolver.Core.dll
+C:\Users\ashish\Desktop\ContosoUniversity 1\ContosoUniversity\bin\Debug\net8.0\NuGet.Frameworks.dll
+C:\Users\ashish\Desktop\ContosoUniversity 1\ContosoUniversity\bin\Debug\net8.0\NuGet.LibraryModel.dll
+C:\Users\ashish\Desktop\ContosoUniversity 1\ContosoUniversity\bin\Debug\net8.0\NuGet.Packaging.dll
+C:\Users\ashish\Desktop\ContosoUniversity 1\ContosoUniversity\bin\Debug\net8.0\NuGet.ProjectModel.dll
+C:\Users\ashish\Desktop\ContosoUniversity 1\ContosoUniversity\bin\Debug\net8.0\NuGet.Protocol.dll
+C:\Users\ashish\Desktop\ContosoUniversity 1\ContosoUniversity\bin\Debug\net8.0\NuGet.Versioning.dll
+C:\Users\ashish\Desktop\ContosoUniversity 1\ContosoUniversity\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\ashish\Desktop\ContosoUniversity 1\ContosoUniversity\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\Users\ashish\Desktop\ContosoUniversity 1\ContosoUniversity\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\Users\ashish\Desktop\ContosoUniversity 1\ContosoUniversity\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\Users\ashish\Desktop\ContosoUniversity 1\ContosoUniversity\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\Users\ashish\Desktop\ContosoUniversity 1\ContosoUniversity\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\Users\ashish\Desktop\ContosoUniversity 1\ContosoUniversity\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\ashish\Desktop\ContosoUniversity 1\ContosoUniversity\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\ashish\Desktop\ContosoUniversity 1\ContosoUniversity\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\ashish\Desktop\ContosoUniversity 1\ContosoUniversity\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\ashish\Desktop\ContosoUniversity 1\ContosoUniversity\bin\Debug\net8.0\System.Reflection.MetadataLoadContext.dll
+C:\Users\ashish\Desktop\ContosoUniversity 1\ContosoUniversity\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Users\ashish\Desktop\ContosoUniversity 1\ContosoUniversity\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ashish\Desktop\ContosoUniversity 1\ContosoUniversity\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\ashish\Desktop\ContosoUniversity 1\ContosoUniversity\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\ashish\Desktop\ContosoUniversity 1\ContosoUniversity\bin\Debug\net8.0\af\Humanizer.resources.dll
+C:\Users\ashish\Desktop\ContosoUniversity 1\ContosoUniversity\bin\Debug\net8.0\ar\Humanizer.resources.dll
+C:\Users\ashish\Desktop\ContosoUniversity 1\ContosoUniversity\bin\Debug\net8.0\az\Humanizer.resources.dll
+C:\Users\ashish\Desktop\ContosoUniversity 1\ContosoUniversity\bin\Debug\net8.0\bg\Humanizer.resources.dll
+C:\Users\ashish\Desktop\ContosoUniversity 1\ContosoUniversity\bin\Debug\net8.0\bn-BD\Humanizer.resources.dll
+C:\Users\ashish\Desktop\ContosoUniversity 1\ContosoUniversity\bin\Debug\net8.0\cs\Humanizer.resources.dll
+C:\Users\ashish\Desktop\ContosoUniversity 1\ContosoUniversity\bin\Debug\net8.0\da\Humanizer.resources.dll
+C:\Users\ashish\Desktop\ContosoUniversity 1\ContosoUniversity\bin\Debug\net8.0\de\Humanizer.resources.dll
+C:\Users\ashish\Desktop\ContosoUniversity 1\ContosoUniversity\bin\Debug\net8.0\el\Humanizer.resources.dll
+C:\Users\ashish\Desktop\ContosoUniversity 1\ContosoUniversity\bin\Debug\net8.0\es\Humanizer.resources.dll
+C:\Users\ashish\Desktop\ContosoUniversity 1\ContosoUniversity\bin\Debug\net8.0\fa\Humanizer.resources.dll
+C:\Users\ashish\Desktop\ContosoUniversity 1\ContosoUniversity\bin\Debug\net8.0\fi-FI\Humanizer.resources.dll
+C:\Users\ashish\Desktop\ContosoUniversity 1\ContosoUniversity\bin\Debug\net8.0\fr\Humanizer.resources.dll
+C:\Users\ashish\Desktop\ContosoUniversity 1\ContosoUniversity\bin\Debug\net8.0\fr-BE\Humanizer.resources.dll
+C:\Users\ashish\Desktop\ContosoUniversity 1\ContosoUniversity\bin\Debug\net8.0\he\Humanizer.resources.dll
+C:\Users\ashish\Desktop\ContosoUniversity 1\ContosoUniversity\bin\Debug\net8.0\hr\Humanizer.resources.dll
+C:\Users\ashish\Desktop\ContosoUniversity 1\ContosoUniversity\bin\Debug\net8.0\hu\Humanizer.resources.dll
+C:\Users\ashish\Desktop\ContosoUniversity 1\ContosoUniversity\bin\Debug\net8.0\hy\Humanizer.resources.dll
+C:\Users\ashish\Desktop\ContosoUniversity 1\ContosoUniversity\bin\Debug\net8.0\id\Humanizer.resources.dll
+C:\Users\ashish\Desktop\ContosoUniversity 1\ContosoUniversity\bin\Debug\net8.0\is\Humanizer.resources.dll
+C:\Users\ashish\Desktop\ContosoUniversity 1\ContosoUniversity\bin\Debug\net8.0\it\Humanizer.resources.dll
+C:\Users\ashish\Desktop\ContosoUniversity 1\ContosoUniversity\bin\Debug\net8.0\ja\Humanizer.resources.dll
+C:\Users\ashish\Desktop\ContosoUniversity 1\ContosoUniversity\bin\Debug\net8.0\ko-KR\Humanizer.resources.dll
+C:\Users\ashish\Desktop\ContosoUniversity 1\ContosoUniversity\bin\Debug\net8.0\ku\Humanizer.resources.dll
+C:\Users\ashish\Desktop\ContosoUniversity 1\ContosoUniversity\bin\Debug\net8.0\lv\Humanizer.resources.dll
+C:\Users\ashish\Desktop\ContosoUniversity 1\ContosoUniversity\bin\Debug\net8.0\ms-MY\Humanizer.resources.dll
+C:\Users\ashish\Desktop\ContosoUniversity 1\ContosoUniversity\bin\Debug\net8.0\mt\Humanizer.resources.dll
+C:\Users\ashish\Desktop\ContosoUniversity 1\ContosoUniversity\bin\Debug\net8.0\nb\Humanizer.resources.dll
+C:\Users\ashish\Desktop\ContosoUniversity 1\ContosoUniversity\bin\Debug\net8.0\nb-NO\Humanizer.resources.dll
+C:\Users\ashish\Desktop\ContosoUniversity 1\ContosoUniversity\bin\Debug\net8.0\nl\Humanizer.resources.dll
+C:\Users\ashish\Desktop\ContosoUniversity 1\ContosoUniversity\bin\Debug\net8.0\pl\Humanizer.resources.dll
+C:\Users\ashish\Desktop\ContosoUniversity 1\ContosoUniversity\bin\Debug\net8.0\pt\Humanizer.resources.dll
+C:\Users\ashish\Desktop\ContosoUniversity 1\ContosoUniversity\bin\Debug\net8.0\ro\Humanizer.resources.dll
+C:\Users\ashish\Desktop\ContosoUniversity 1\ContosoUniversity\bin\Debug\net8.0\ru\Humanizer.resources.dll
+C:\Users\ashish\Desktop\ContosoUniversity 1\ContosoUniversity\bin\Debug\net8.0\sk\Humanizer.resources.dll
+C:\Users\ashish\Desktop\ContosoUniversity 1\ContosoUniversity\bin\Debug\net8.0\sl\Humanizer.resources.dll
+C:\Users\ashish\Desktop\ContosoUniversity 1\ContosoUniversity\bin\Debug\net8.0\sr\Humanizer.resources.dll
+C:\Users\ashish\Desktop\ContosoUniversity 1\ContosoUniversity\bin\Debug\net8.0\sr-Latn\Humanizer.resources.dll
+C:\Users\ashish\Desktop\ContosoUniversity 1\ContosoUniversity\bin\Debug\net8.0\sv\Humanizer.resources.dll
+C:\Users\ashish\Desktop\ContosoUniversity 1\ContosoUniversity\bin\Debug\net8.0\th-TH\Humanizer.resources.dll
+C:\Users\ashish\Desktop\ContosoUniversity 1\ContosoUniversity\bin\Debug\net8.0\tr\Humanizer.resources.dll
+C:\Users\ashish\Desktop\ContosoUniversity 1\ContosoUniversity\bin\Debug\net8.0\uk\Humanizer.resources.dll
+C:\Users\ashish\Desktop\ContosoUniversity 1\ContosoUniversity\bin\Debug\net8.0\uz-Cyrl-UZ\Humanizer.resources.dll
+C:\Users\ashish\Desktop\ContosoUniversity 1\ContosoUniversity\bin\Debug\net8.0\uz-Latn-UZ\Humanizer.resources.dll
+C:\Users\ashish\Desktop\ContosoUniversity 1\ContosoUniversity\bin\Debug\net8.0\vi\Humanizer.resources.dll
+C:\Users\ashish\Desktop\ContosoUniversity 1\ContosoUniversity\bin\Debug\net8.0\zh-CN\Humanizer.resources.dll
+C:\Users\ashish\Desktop\ContosoUniversity 1\ContosoUniversity\bin\Debug\net8.0\zh-Hans\Humanizer.resources.dll
+C:\Users\ashish\Desktop\ContosoUniversity 1\ContosoUniversity\bin\Debug\net8.0\zh-Hant\Humanizer.resources.dll
+C:\Users\ashish\Desktop\ContosoUniversity 1\ContosoUniversity\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ashish\Desktop\ContosoUniversity 1\ContosoUniversity\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ashish\Desktop\ContosoUniversity 1\ContosoUniversity\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ashish\Desktop\ContosoUniversity 1\ContosoUniversity\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ashish\Desktop\ContosoUniversity 1\ContosoUniversity\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ashish\Desktop\ContosoUniversity 1\ContosoUniversity\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ashish\Desktop\ContosoUniversity 1\ContosoUniversity\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ashish\Desktop\ContosoUniversity 1\ContosoUniversity\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ashish\Desktop\ContosoUniversity 1\ContosoUniversity\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ashish\Desktop\ContosoUniversity 1\ContosoUniversity\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ashish\Desktop\ContosoUniversity 1\ContosoUniversity\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ashish\Desktop\ContosoUniversity 1\ContosoUniversity\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ashish\Desktop\ContosoUniversity 1\ContosoUniversity\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ashish\Desktop\ContosoUniversity 1\ContosoUniversity\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ashish\Desktop\ContosoUniversity 1\ContosoUniversity\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ashish\Desktop\ContosoUniversity 1\ContosoUniversity\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ashish\Desktop\ContosoUniversity 1\ContosoUniversity\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ashish\Desktop\ContosoUniversity 1\ContosoUniversity\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ashish\Desktop\ContosoUniversity 1\ContosoUniversity\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ashish\Desktop\ContosoUniversity 1\ContosoUniversity\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ashish\Desktop\ContosoUniversity 1\ContosoUniversity\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ashish\Desktop\ContosoUniversity 1\ContosoUniversity\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ashish\Desktop\ContosoUniversity 1\ContosoUniversity\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ashish\Desktop\ContosoUniversity 1\ContosoUniversity\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ashish\Desktop\ContosoUniversity 1\ContosoUniversity\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ashish\Desktop\ContosoUniversity 1\ContosoUniversity\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ashish\Desktop\ContosoUniversity 1\ContosoUniversity\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\ashish\Desktop\ContosoUniversity 1\ContosoUniversity\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\ashish\Desktop\ContosoUniversity 1\ContosoUniversity\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\ashish\Desktop\ContosoUniversity 1\ContosoUniversity\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\ashish\Desktop\ContosoUniversity 1\ContosoUniversity\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\ashish\Desktop\ContosoUniversity 1\ContosoUniversity\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\ashish\Desktop\ContosoUniversity 1\ContosoUniversity\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\ashish\Desktop\ContosoUniversity 1\ContosoUniversity\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\ashish\Desktop\ContosoUniversity 1\ContosoUniversity\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\ashish\Desktop\ContosoUniversity 1\ContosoUniversity\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\ashish\Desktop\ContosoUniversity 1\ContosoUniversity\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\ashish\Desktop\ContosoUniversity 1\ContosoUniversity\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\ashish\Desktop\ContosoUniversity 1\ContosoUniversity\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\ashish\Desktop\ContosoUniversity 1\ContosoUniversity\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ashish\Desktop\ContosoUniversity 1\ContosoUniversity\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ashish\Desktop\ContosoUniversity 1\ContosoUniversity\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ashish\Desktop\ContosoUniversity 1\ContosoUniversity\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ashish\Desktop\ContosoUniversity 1\ContosoUniversity\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ashish\Desktop\ContosoUniversity 1\ContosoUniversity\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ashish\Desktop\ContosoUniversity 1\ContosoUniversity\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ashish\Desktop\ContosoUniversity 1\ContosoUniversity\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ashish\Desktop\ContosoUniversity 1\ContosoUniversity\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ashish\Desktop\ContosoUniversity 1\ContosoUniversity\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ashish\Desktop\ContosoUniversity 1\ContosoUniversity\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ashish\Desktop\ContosoUniversity 1\ContosoUniversity\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ashish\Desktop\ContosoUniversity 1\ContosoUniversity\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ashish\Desktop\ContosoUniversity 1\ContosoUniversity\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\ashish\Desktop\ContosoUniversity 1\ContosoUniversity\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\ashish\Desktop\ContosoUniversity 1\ContosoUniversity\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\ashish\Desktop\ContosoUniversity 1\ContosoUniversity\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\ashish\Desktop\ContosoUniversity 1\ContosoUniversity\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\ashish\Desktop\ContosoUniversity 1\ContosoUniversity\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\ashish\Desktop\ContosoUniversity 1\ContosoUniversity\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\ashish\Desktop\ContosoUniversity 1\ContosoUniversity\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\ashish\Desktop\ContosoUniversity 1\ContosoUniversity\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\ashish\Desktop\ContosoUniversity 1\ContosoUniversity\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\ashish\Desktop\ContosoUniversity 1\ContosoUniversity\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\ashish\Desktop\ContosoUniversity 1\ContosoUniversity\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\ashish\Desktop\ContosoUniversity 1\ContosoUniversity\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\ashish\Desktop\ContosoUniversity 1\ContosoUniversity\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\ashish\Desktop\ContosoUniversity 1\ContosoUniversity\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\ashish\Desktop\ContosoUniversity 1\ContosoUniversity\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\ashish\Desktop\ContosoUniversity 1\ContosoUniversity\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\ashish\Desktop\ContosoUniversity 1\ContosoUniversity\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\ashish\Desktop\ContosoUniversity 1\ContosoUniversity\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\ashish\Desktop\ContosoUniversity 1\ContosoUniversity\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\ashish\Desktop\ContosoUniversity 1\ContosoUniversity\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\ashish\Desktop\ContosoUniversity 1\ContosoUniversity\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\ashish\Desktop\ContosoUniversity 1\ContosoUniversity\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\ashish\Desktop\ContosoUniversity 1\ContosoUniversity\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\ashish\Desktop\ContosoUniversity 1\ContosoUniversity\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\ashish\Desktop\ContosoUniversity 1\ContosoUniversity\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\ashish\Desktop\ContosoUniversity 1\ContosoUniversity\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ashish\Desktop\ContosoUniversity 1\ContosoUniversity\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ashish\Desktop\ContosoUniversity 1\ContosoUniversity\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ashish\Desktop\ContosoUniversity 1\ContosoUniversity\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ashish\Desktop\ContosoUniversity 1\ContosoUniversity\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ashish\Desktop\ContosoUniversity 1\ContosoUniversity\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ashish\Desktop\ContosoUniversity 1\ContosoUniversity\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ashish\Desktop\ContosoUniversity 1\ContosoUniversity\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ashish\Desktop\ContosoUniversity 1\ContosoUniversity\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ashish\Desktop\ContosoUniversity 1\ContosoUniversity\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ashish\Desktop\ContosoUniversity 1\ContosoUniversity\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ashish\Desktop\ContosoUniversity 1\ContosoUniversity\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ashish\Desktop\ContosoUniversity 1\ContosoUniversity\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ashish\Desktop\ContosoUniversity 1\ContosoUniversity\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\ashish\Desktop\ContosoUniversity 1\ContosoUniversity\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\ashish\Desktop\ContosoUniversity 1\ContosoUniversity\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ashish\Desktop\ContosoUniversity 1\ContosoUniversity\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ashish\Desktop\ContosoUniversity 1\ContosoUniversity\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ashish\Desktop\ContosoUniversity 1\ContosoUniversity\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ashish\Desktop\ContosoUniversity 1\ContosoUniversity\bin\Debug\net8.0\runtimes\win\lib\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\ashish\Desktop\ContosoUniversity 1\ContosoUniversity\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Drawing.Common.dll
+C:\Users\ashish\Desktop\ContosoUniversity 1\ContosoUniversity\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\ashish\Desktop\ContosoUniversity 1\ContosoUniversity\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ashish\Desktop\ContosoUniversity 1\ContosoUniversity\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Windows.Extensions.dll
+C:\Users\ashish\Desktop\ContosoUniversity 1\ContosoUniversity\obj\Debug\net8.0\ContosoUniversity.csproj.AssemblyReference.cache
+C:\Users\ashish\Desktop\ContosoUniversity 1\ContosoUniversity\obj\Debug\net8.0\ContosoUniversity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ashish\Desktop\ContosoUniversity 1\ContosoUniversity\obj\Debug\net8.0\ContosoUniversity.AssemblyInfoInputs.cache
+C:\Users\ashish\Desktop\ContosoUniversity 1\ContosoUniversity\obj\Debug\net8.0\ContosoUniversity.AssemblyInfo.cs
+C:\Users\ashish\Desktop\ContosoUniversity 1\ContosoUniversity\obj\Debug\net8.0\ContosoUniversity.csproj.CoreCompileInputs.cache
+C:\Users\ashish\Desktop\ContosoUniversity 1\ContosoUniversity\obj\Debug\net8.0\ContosoUniversity.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\ashish\Desktop\ContosoUniversity 1\ContosoUniversity\obj\Debug\net8.0\ContosoUniversity.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ashish\Desktop\ContosoUniversity 1\ContosoUniversity\obj\Debug\net8.0\ContosoUniversity.RazorAssemblyInfo.cache
+C:\Users\ashish\Desktop\ContosoUniversity 1\ContosoUniversity\obj\Debug\net8.0\ContosoUniversity.RazorAssemblyInfo.cs
+C:\Users\ashish\Desktop\ContosoUniversity 1\ContosoUniversity\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\ashish\Desktop\ContosoUniversity 1\ContosoUniversity\obj\Debug\net8.0\scopedcss\bundle\ContosoUniversity.styles.css
+C:\Users\ashish\Desktop\ContosoUniversity 1\ContosoUniversity\obj\Debug\net8.0\scopedcss\projectbundle\ContosoUniversity.bundle.scp.css
+C:\Users\ashish\Desktop\ContosoUniversity 1\ContosoUniversity\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\ashish\Desktop\ContosoUniversity 1\ContosoUniversity\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\ashish\Desktop\ContosoUniversity 1\ContosoUniversity\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\ashish\Desktop\ContosoUniversity 1\ContosoUniversity\obj\Debug\net8.0\staticwebassets\msbuild.ContosoUniversity.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\ashish\Desktop\ContosoUniversity 1\ContosoUniversity\obj\Debug\net8.0\staticwebassets\msbuild.ContosoUniversity.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\ashish\Desktop\ContosoUniversity 1\ContosoUniversity\obj\Debug\net8.0\staticwebassets\msbuild.build.ContosoUniversity.props
+C:\Users\ashish\Desktop\ContosoUniversity 1\ContosoUniversity\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.ContosoUniversity.props
+C:\Users\ashish\Desktop\ContosoUniversity 1\ContosoUniversity\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.ContosoUniversity.props
+C:\Users\ashish\Desktop\ContosoUniversity 1\ContosoUniversity\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\ashish\Desktop\ContosoUniversity 1\ContosoUniversity\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\ashish\Desktop\ContosoUniversity 1\ContosoUniversity\obj\Debug\net8.0\ContosoU.2F40B0B5.Up2Date
+C:\Users\ashish\Desktop\ContosoUniversity 1\ContosoUniversity\obj\Debug\net8.0\ContosoUniversity.dll
+C:\Users\ashish\Desktop\ContosoUniversity 1\ContosoUniversity\obj\Debug\net8.0\refint\ContosoUniversity.dll
+C:\Users\ashish\Desktop\ContosoUniversity 1\ContosoUniversity\obj\Debug\net8.0\ContosoUniversity.pdb
+C:\Users\ashish\Desktop\ContosoUniversity 1\ContosoUniversity\obj\Debug\net8.0\ContosoUniversity.genruntimeconfig.cache
+C:\Users\ashish\Desktop\ContosoUniversity 1\ContosoUniversity\obj\Debug\net8.0\ref\ContosoUniversity.dll

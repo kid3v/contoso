@@ -1,0 +1,4 @@
+"ConnectionStrings": {
+    "DefaultConnection": "Server=(localdb)\\mssqllocaldb;Database=CU-users;Trusted_Connection=True;MultipleActiveResultSets=true",
+    "SchoolContext": "Server=(localdb)\\mssqllocaldb;Database=CU-data;Trusted_Connection=True;MultipleActiveResultSets=true"
+},
