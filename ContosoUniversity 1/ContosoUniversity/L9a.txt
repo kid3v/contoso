@@ -1,8 +1,8 @@
     public IActionResult Privacy()
     {
-        ViewData["FirstName"] = "Jared";
-        ViewData["LastName"] = "Dimacali";
-        ViewData["Email"] = "jaredd23@uw.edu";
+        ViewData["FirstName"] = "Ashish";
+        ViewData["LastName"] = "Pradhan";
+        ViewData["Email"] = "katami@uw.edu";
 
         return View();
     }
